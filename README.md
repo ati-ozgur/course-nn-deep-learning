@@ -21,7 +21,9 @@ Course materials for Neural Networks and Deep Learning course in Hoch Schule Bre
 ## Lesson 01
 
 - Python IDEs
-    - [Wing IDE]
+    - [Wing IDE](https://wingware.com/)
+    - [Visual Studio](https://visualstudio.microsoft.com/vs/features/python/)
+    - [PyCharm](https://www.jetbrains.com/pycharm)
 - [Python tutorial](python-introduction.md)
 - [Ipython and Jupyter Notebooks](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)
 - [Numpy tutorial](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
