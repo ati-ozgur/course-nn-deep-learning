@@ -18,7 +18,7 @@ Course materials for Neural Networks and Deep Learning course in Hoch Schule Bre
 - [Weka 3: Data Mining Software in Java](https://www.cs.waikato.ac.nz/ml/weka/downloading.html)
 
 
-## Lesson 01
+## Lesson 01 Introduction to Python and Other Useful Tools for Machine Learning
 
 We will use mostly jupyter notebooks but ability to debug python code is important skill to have.
 Below is three best debuggers I used before.
