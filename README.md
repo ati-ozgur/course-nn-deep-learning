@@ -13,7 +13,9 @@ Course materials for Neural Networks and Deep Learning course in Hoch Schule Bre
 
 # Optional Programs
 
-    - [Weka](https://www.cs.waikato.ac.nz/ml/weka/downloading.html)
+    - [keras](https://keras.io/#installation)
+    - [pytorch](https://pytorch.org/get-started/locally/) 
+    - [Weka 3: Data Mining Software in Java](https://www.cs.waikato.ac.nz/ml/weka/downloading.html)
 
 
 ## Lesson 01
