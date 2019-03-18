@@ -4,7 +4,7 @@ Course materials for Neural Networks and Deep Learning course in Hoch Schule Bre
 
 # Required Programs
 
-- [Anaconda Python Distribution](https://www.anaconda.com/distribution/)
+- [Anaconda Python 3 Distribution](https://www.anaconda.com/distribution/)
 
 - [mxnet](http://mxnet.incubator.apache.org/test/get_started/install.html)
     - [mxnet installation windows](http://mxnet.incubator.apache.org/test/get_started/windows_setup.html)
