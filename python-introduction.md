@@ -24,7 +24,9 @@ If it’s a multiple of 5, it should print “five”. If it’s a multiple of 3
 
 There are 100 numbers in the variable number_list.
 Some of the numbers are unique in this list while some of the numbers exists more than one in this list.
-Find the non-unique ones.
+Find the duplicate ones.
+TODO: Write starter code with sample
+
 
 ### Question 03
 Write a simple program that creates 1000 Random passwords for users.
