@@ -54,7 +54,7 @@ Google Trends
 - mxnet
 - Caffe
 - [DL4J](https://deeplearning4j.org/)
-- matlab Deep Learning
+- [Matlab Deep Learning](https://de.mathworks.com/solutions/deep-learning.html)
 - torch
 - [Microsoft Cognitive Toolkit (CNTK)](https://github.com/Microsoft/cntk)
 - [Theano](https://github.com/Theano/Theano)
