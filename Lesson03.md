@@ -2,6 +2,15 @@
 
 3.1 Zero Rule and One Rule
 
+*Zero Rule*
+- Choose median for regression
+- Choose mode for classification
+
+*One Rule*
+Generate one rule for every predictor then choose one with the smallest error.
+[Example](http://www.saedsayad.com/oner.htm)
+
+
 These are baseline classifiers/regressors to compare your model.
 Do not think that these may be useless.
 See Holte et al "Very simple classification rules perform well on most commonly used datasets".
@@ -16,8 +25,7 @@ See Holte et al "Very simple classification rules perform well on most commonly 
 3.1.4 [Dummy Regressor in Scikit Learn](https://scikit-learn.org/stable/modules/generated/sklearn.dummy.DummyRegressor.html)
 
 
-
-
+3.1.5 Write Zero Rule and One Rule yourself in the python code. 
 
 
 3.2 Naive Bayes
