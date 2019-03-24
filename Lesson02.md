@@ -11,7 +11,7 @@
 - R Caret
 - Of course others
 
-2.3 Neural Network Frameworks
+2.3 Neural Network Toolboxes
 
 - Weka
 - matlab
@@ -21,16 +21,30 @@
 
 2.4 Deep Learning Frameworks
 
+See comparison [here](https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607ddf297a).
+
+
+We will use mxnet and gluon mostly due to very good open book with notebooks, [Dive into Deep Learning](https://d2l.ai/index.html).
+
+
 Google Trends
 ![Google Trends Deep Learning Frameworks](/images/google-trends-dl-frameworks.png)
 
 
-
+### Most well known
 
 - tensorflow
 - keras
 - pytorch
+
+### Others
+
+
 - mxnet
+- Caffe
 - [DL4J](https://deeplearning4j.org/)
-- 
+- matlab Deep Learning
+- torch
+- [Microsoft Cognitive Toolkit (CNTK)](https://github.com/Microsoft/cntk)
+- [Theano](https://github.com/Theano/Theano)
 
