@@ -5,7 +5,7 @@
 
 2.2 Machine Learning Toolbox examples
 
-- scikit-Learn
+- Scikit Learn
 - Weka 
 - Matlab
 - R Caret
