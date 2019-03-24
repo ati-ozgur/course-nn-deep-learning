@@ -6,7 +6,6 @@ Course materials for Neural Networks and Deep Learning course in Hoch Schule Bre
 
 [Installation for required Programs](installation.md)
 
-You do not need to know everything about above subjects for our course but knowledge of jupyter notebooks, numpy, pandas and matplotlib are very important for machine learning engineers and data scientists.
 
 ## Lesson 02 Introduction to Machine Learning, Neural Networks and Deep Learning
 
