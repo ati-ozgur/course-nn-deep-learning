@@ -42,3 +42,8 @@ See Holte et al "Very simple classification rules perform well on most commonly 
 
 3.3.2 [Linear Regression Gluon](https://d2l.ai/chapter_linear-networks/linear-regression-gluon.html)
 
+3.4 Logistic vs Softmax Regression
+
+3.4.1 [Softmax Regression From Scratch](https://d2l.ai/chapter_linear-networks/softmax-regression-scratch.html)
+
+3.4.2 [Softmax Regression Gluon](https://d2l.ai/chapter_linear-networks/softmax-regression-gluon.html)
