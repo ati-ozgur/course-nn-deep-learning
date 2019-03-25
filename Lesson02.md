@@ -32,10 +32,11 @@
 
 2.5 Deep Learning Frameworks
 
-See comparison [here](https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607ddf297a).
+See one [comparison here](https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607ddf297a).
 
 
-We will use mxnet and gluon mostly due to very good open book with notebooks, [Dive into Deep Learning](https://d2l.ai/index.html).
+We will use mxnet and gluon mostly due to availability of our course book.
+It is a very good open book with jupyter notebooks, [Dive into Deep Learning](https://d2l.ai/index.html).
 
 
 Google Trends
