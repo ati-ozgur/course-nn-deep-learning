@@ -12,6 +12,14 @@ Download file and use following command
     
     conda env create -f environment-book-d2l.yml
 
+## Windows 
+
+    activate gluon
+
+## Linux / MacOS
+    source activate gluon
+
+
 # Lesson 01
 
 [Lesson 01](Lesson01.md)
