@@ -6,6 +6,12 @@ Course materials for Neural Networks and Deep Learning course in Hoch Schule Bre
 
 [Installation for required Programs](installation.md)
 
+Download file and use following command 
+
+[Installation environment yml file ](environment-book-d2l.md)
+    
+    conda env create -f environment.yml
+
 # Lesson 01
 
 [Lesson 01](Lesson01.md)
