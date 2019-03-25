@@ -14,6 +14,16 @@ Course materials for Neural Networks and Deep Learning course in Hoch Schule Bre
 
 [Lesson 02](Lesson02.md)
 
+# Lesson 03
+
+[Lesson 03](Lesson03.md)
+
+
+
+# Examples
+
+- [yield iterator example](notebooks/yield_example1.ipynb)
+
 
 
 
