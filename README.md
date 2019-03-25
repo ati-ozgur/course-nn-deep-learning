@@ -10,7 +10,7 @@ Download file and use following command
 
 [Installation environment yml file ](environment-book-d2l.yml)
     
-    conda env create -f environment.yml
+    conda env create -f environment-book-d2l.yml
 
 # Lesson 01
 
