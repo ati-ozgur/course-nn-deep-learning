@@ -19,6 +19,10 @@ Download file and use following command
 ## Linux / MacOS
     source activate gluon
 
+# Project Ideas
+
+[Project Ideas for the course](Projects.md)
+
 
 # Lesson 01
 
