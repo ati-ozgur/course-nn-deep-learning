@@ -27,6 +27,11 @@ See [an example here](https://www.khanacademy.org/math/linear-algebra/matrix-tra
 Linear Regression can be solved using Least Squares approximation.
 See [example video here](https://www.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-algebra-least-squares-approximation).
 
+### Note 3:
+Any function can be approximated with a MLP, the so called [Universal approximation theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem).
+See a [visual proof here](http://neuralnetworksanddeeplearning.com/chap4.html).
+
+
 
 
 
