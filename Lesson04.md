@@ -17,12 +17,15 @@ Lesson04.md
 
 ## Background Information
 
-###Note 1:
+### Note 1:
+
 Any linear function can be written in matrix product form.
 See [an example here](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/linear-transformations-as-matrix-vector-products).
 
-Linear Regression in closest subspace thing.
-Find an example video.
+### Note 2:
+
+Linear Regression can be solved using Least Squares approximation.
+See [example video here](https://www.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-algebra-least-squares-approximation).
 
 
 
