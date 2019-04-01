@@ -32,7 +32,9 @@ Download file and use following command
 
 [Lesson 03](Lesson03.md)
 
+# Lesson 04
 
+[Lesson 04](Lesson04.md)
 
 # Examples
 
