@@ -16,4 +16,6 @@ And inform me about your paper of choice via email.
 2. Enter a Kaggle competition. Kaggle competition you enter should not be a getting started or example competition. 
 
 
-
+3. You can use interesting Kaggle Dataset or any other dataset.
+Check with me.
+ 
