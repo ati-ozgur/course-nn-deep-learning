@@ -5,7 +5,6 @@
 
 
 
-
 ### Data in mxnet
 
 https://mxnet.incubator.apache.org/api/python/gluon/data.html
@@ -19,4 +18,7 @@ https://mxnet.incubator.apache.org/api/python/gluon/data.html
 2. FashionMNIST
 3. CIFAR10
 4. CIFAR100
+
+### Simple Layers
+
 
