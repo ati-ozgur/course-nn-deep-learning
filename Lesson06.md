@@ -4,7 +4,8 @@
 
 [Visualize mxnet network](notebooks/visualize_network_mxnet_example1.ipynb)
 
-### Visualize Network tensor
+### Visualize Network: Playground Tensorflow
+
 
 [playground tensorflow](https://playground.tensorflow.org/)
 
