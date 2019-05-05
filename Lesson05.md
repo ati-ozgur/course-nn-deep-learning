@@ -21,4 +21,7 @@ https://mxnet.incubator.apache.org/api/python/gluon/data.html
 
 ### Simple Layers
 
+### Dropout
+
+
 
