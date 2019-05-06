@@ -108,3 +108,4 @@ temp/*
 examples-in-the-class/*
 
 notebooks/data/*
+*.params
