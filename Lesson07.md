@@ -10,5 +10,7 @@
 
 [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285)
 
+### Cats and Dogs example
+
 ### Image Transforms
 
