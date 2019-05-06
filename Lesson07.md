@@ -8,7 +8,7 @@
 
 [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)
 
-
+[A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285)
 
 ### Image Transforms
 
