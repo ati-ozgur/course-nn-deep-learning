@@ -55,6 +55,7 @@ Google Trends
 - mxnet
 - Caffe
 - [DL4J](https://deeplearning4j.org/)
+    - [weka deep learning](https://deeplearning.cms.waikato.ac.nz/) used DL4J as backend. 
 - [Matlab Deep Learning](https://de.mathworks.com/solutions/deep-learning.html)
 - torch
 - [Microsoft Cognitive Toolkit (CNTK)](https://github.com/Microsoft/cntk)
