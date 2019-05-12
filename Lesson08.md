@@ -8,6 +8,5 @@
 ### Using pretrained networks
 
 
-
 ### Using pretrained networks cats and dogs example
 
