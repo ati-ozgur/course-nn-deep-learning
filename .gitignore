@@ -109,3 +109,4 @@ examples-in-the-class/*
 
 notebooks/data/*
 *.params
+*.h5
