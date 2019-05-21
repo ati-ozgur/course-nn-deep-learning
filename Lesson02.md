@@ -30,34 +30,5 @@
 
     "Encog continues to be developed, and is used in my own research, for areas that I need Java and are not covered by Keras. However, for larger-scale cutting edge work, where I do not need to implement the technology from scratch, I make use of Keras/TensorFlow for my own work."
 
-2.5 Deep Learning Frameworks
 
-See one [comparison here](https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607ddf297a).
-
-
-We will use mxnet and gluon mostly due to availability of our course book.
-It is a very good open book with jupyter notebooks, [Dive into Deep Learning](https://d2l.ai/index.html).
-
-
-Google Trends
-![Google Trends Deep Learning Frameworks](/images/google-trends-dl-frameworks.png)
-
-
-### Most well known
-
-- tensorflow
-- keras
-- pytorch
-
-### Others
-
-
-- mxnet
-- Caffe
-- [DL4J](https://deeplearning4j.org/)
-    - [weka deep learning](https://deeplearning.cms.waikato.ac.nz/) used DL4J as backend. 
-- [Matlab Deep Learning](https://de.mathworks.com/solutions/deep-learning.html)
-- torch
-- [Microsoft Cognitive Toolkit (CNTK)](https://github.com/Microsoft/cntk)
-- [Theano](https://github.com/Theano/Theano)
 

@@ -9,3 +9,6 @@
 
 
 
+- [fastai datasets](https://course.fast.ai/datasets)
+
+- [Amazon Datasets](https://registry.opendata.aws/)
