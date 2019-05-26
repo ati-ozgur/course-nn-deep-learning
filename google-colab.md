@@ -21,9 +21,11 @@ see this [notebook](notebooks/google-colab-mxnet-install.ipynb)
 
 2. Python code
 
-
+ 
+```python
     import urllib.request
     urllib.request.urlretrieve(url, filename)
+```
 
 
 ## Uploading files
@@ -32,8 +34,10 @@ see this [notebook](notebooks/google-colab-mxnet-install.ipynb)
 
 2. using code
 
-    from google.colab import files
-    uploaded = files.upload()
+```python
+from google.colab import files
+uploaded = files.upload()
+```
 
 
 
