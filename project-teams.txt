@@ -1,0 +1,178 @@
+project-teams.txt
+
+## Project Team 01
+
+Neural Style Transfer: Creating Art with Deep Learning
+ - Leonard Kühlke  (lkuehlke@stud.hs-bremen.de)
+ - Rajmund Robert Fuchs (rfuchs@stud.hs-bremen.de)
+
+ They will add front end to this project.
+ There will be two different styles already trained.
+ I will be able to see the results with uploaded content image immediately.
+ Otherwise, I will supply both content and style, after 10 epochs, I will see the results.
+
+
+ ## Project Team 02
+
+ - Motaz AbuHijleh (mabuhijleh@stud.hs-bremen.de)
+ - Tiago Esteves (tdbrito@stud.hs-bremen.de)
+ - Darian Hanci (darian.hanci@outlook.de)
+
+- https://arxiv.org/abs/1903.07803
+- https://www.paperswithcode.com/paper/dynamic-deep-networks-for-retinal-vessel
+
+Pytorch code exists, they will write it in mxnet.
+Repeat experiments on at least one dataset.
+
+
+## Project Team 03
+
+- Ove von Stackelberg (ovstackelberg@stud.hs-bremen.de
+- Marvin Binnemann (mbinnemann@stud.hs-bremen.de)
+- Leon Hartmann (lhartmann@stud.hs-bremen.de)
+
+https://www.kaggle.com/c/airbus-ship-detection
+
+1. Create 1 kernel in kaggle. Share kernel with me.
+Mask-RCNN is planned to use.
+You would explain architecture of your chosen NN.
+Get training time, training-validation loss and other figures.
+Compare your results from other 2 kernels. 
+
+    - Algorithm, kernel link, accuracy or loss
+
+
+## Project Team 04
+
+- Torsten von Bültzingslöwen (tvbueltzingsloe@stud.hs-bremen.de
+)
+- Tim Görlitz (tgoerlitz@stud.hs-bremen.de)
+- Anh Tuan Le (ale001@stud.hs-bremen.de)
+
+https://www.kaggle.com/c/quickdraw-doodle-recognition
+
+1. Create 1 kernel in kaggle. Share kernel with me.
+
+You would explain architecture of your chosen NN.
+Get training time, training-validation loss and other figures.
+Compare your results from other 2 kernels. 
+
+    - Algorithm, kernel link, accuracy or loss
+
+## Project Team 05
+
+- Karthik Nagaraj  (nkarthik@stud.hs-bremen.de
+)
+- Abhishek Murali (amurali@stud.hs-bremen.de)
+
+- Mukul Jain (mjain@stud.hs-bremen.de
+)
+
+
+SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
+- https://paperswithcode.com/paper/segnet-a-deep-convolutional-encoder-decoder
+
+Other code implementations exist, they will write it in mxnet.
+Repeat experiments on at least one dataset.
+
+
+## Project Team 06: SchlemmerSlammer 
+
+- Maxim Bex (maximbex@stud.hs-bremen.de)
+- Hannes Gelbhardt (hgelbhardt@stud.hs-bremen.de)
+- York Smeddinck (ysmeddinck@stud.hs-bremen.de)
+
+Cooking Recipes
+https://www.kaggle.com/hugodarwood/epirecipes
+
+Train word2vec model (maybe gensim: https://radimrehurek.com/gensim/models/word2vec.html) on your dataset.
+Similar to our python notebook, give recommendations from your dataset.
+Show t-SNE graph.
+After this, we will discuss more.
+
+
+## Project Team 07:
+
+ - Clement Gelineau   ( cgelineau@stud.hs-bremen.de)
+ - Mariia Muravytska  ( mmuravytska@stud.hs-bremen.de)
+
+
+Project idea: Facial Expression Recognition
+
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+
+1. Create 1 kernel in kaggle. Share kernel with me.
+
+You would explain architecture of your chosen NN.
+Get training time, training-validation loss and other figures.
+Compare your results from other 2 kernels. 
+
+    - Algorithm, kernel link, accuracy or loss
+
+
+
+
+## Project Team 08:
+
+- Espen Pering (epering@stud.hs-bremen.de)
+- Falk Kükelhan (fkuekelhan@stud.hs-bremen.de)
+- Dennis Beitler (dbeitler@stud.hs-bremen.de)
+
+Music creation
+Code exists for this task. 
+???You apply this data to german songs of your choosing.
+
+1. Apply this code to one dataset, then we will discuss about other datasets.
+
+You would explain architecture of your chosen NN.
+Get training time, training-validation loss and other figures.
+
+
+
+
+## Project Team 09: 
+
+- Andreas Bentler 
+- Fabian Niehaus
+- Yannik Grotkop
+- Christopher Felder
+
+Music genre classification
+Normally other articles classify general genres.
+We will classify sub genre of electronic music.
+You will provide your own dataset.
+You will choose one paper to implement.
+You will provide web front end.
+
+You would explain architecture of your chosen NN.
+Get training time, training-validation loss and other figures.
+
+
+
+## Project Team 10:
+
+- Leon Baumann (lbaumann@stud.hs-bremen.de)
+- Luca Seidler (lseidler@gmx.net)
+
+
+https://www.kaggle.com/c/petfinder-adoption-prediction
+
+
+
+1. Create 1 kernel in kaggle. Share kernel with me.
+
+You would explain architecture of your chosen NN.
+Get training time, training-validation loss and other figures.
+Compare your results from other 2 kernels. 
+
+    - Algorithm, kernel link, accuracy or loss
+
+
+
+
+
+
+
+
+
+
