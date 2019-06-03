@@ -3,8 +3,8 @@ project-teams.txt
 ## Project Team 01
 
 Neural Style Transfer: Creating Art with Deep Learning
- - Leonard Kühlke  (lkuehlke@stud.hs-bremen.de)
- - Rajmund Robert Fuchs (rfuchs@stud.hs-bremen.de)
+ - Leonard Kühlke  (lkuehlke at  stud.hs-bremen.de)
+ - Rajmund Robert Fuchs (rfuchs at  stud.hs-bremen.de)
 
  They will add front end to this project.
  There will be two different styles already trained.
@@ -14,9 +14,9 @@ Neural Style Transfer: Creating Art with Deep Learning
 
  ## Project Team 02
 
- - Motaz AbuHijleh (mabuhijleh@stud.hs-bremen.de)
- - Tiago Esteves (tdbrito@stud.hs-bremen.de)
- - Darian Hanci (darian.hanci@outlook.de)
+ - Motaz AbuHijleh (mabuhijleh at  stud.hs-bremen.de)
+ - Tiago Esteves (tdbrito at  stud.hs-bremen.de)
+ - Darian Hanci (darian.hanci at  outlook.de)
 
 - https://arxiv.org/abs/1903.07803
 - https://www.paperswithcode.com/paper/dynamic-deep-networks-for-retinal-vessel
@@ -27,9 +27,9 @@ Repeat experiments on at least one dataset.
 
 ## Project Team 03
 
-- Ove von Stackelberg (ovstackelberg@stud.hs-bremen.de
-- Marvin Binnemann (mbinnemann@stud.hs-bremen.de)
-- Leon Hartmann (lhartmann@stud.hs-bremen.de)
+- Ove von Stackelberg (ovstackelberg at  stud.hs-bremen.de
+- Marvin Binnemann (mbinnemann at  stud.hs-bremen.de)
+- Leon Hartmann (lhartmann at  stud.hs-bremen.de)
 
 https://www.kaggle.com/c/airbus-ship-detection
 
@@ -44,10 +44,10 @@ Compare your results from other 2 kernels.
 
 ## Project Team 04
 
-- Torsten von Bültzingslöwen (tvbueltzingsloe@stud.hs-bremen.de
+- Torsten von Bültzingslöwen (tvbueltzingsloe at  stud.hs-bremen.de
 )
-- Tim Görlitz (tgoerlitz@stud.hs-bremen.de)
-- Anh Tuan Le (ale001@stud.hs-bremen.de)
+- Tim Görlitz (tgoerlitz at  stud.hs-bremen.de)
+- Anh Tuan Le (ale001 at  stud.hs-bremen.de)
 
 https://www.kaggle.com/c/quickdraw-doodle-recognition
 
@@ -61,11 +61,11 @@ Compare your results from other 2 kernels.
 
 ## Project Team 05
 
-- Karthik Nagaraj  (nkarthik@stud.hs-bremen.de
+- Karthik Nagaraj  (nkarthik at  stud.hs-bremen.de
 )
-- Abhishek Murali (amurali@stud.hs-bremen.de)
+- Abhishek Murali (amurali at  stud.hs-bremen.de)
 
-- Mukul Jain (mjain@stud.hs-bremen.de
+- Mukul Jain (mjain at  stud.hs-bremen.de
 )
 
 
@@ -78,9 +78,9 @@ Repeat experiments on at least one dataset.
 
 ## Project Team 06: SchlemmerSlammer 
 
-- Maxim Bex (maximbex@stud.hs-bremen.de)
-- Hannes Gelbhardt (hgelbhardt@stud.hs-bremen.de)
-- York Smeddinck (ysmeddinck@stud.hs-bremen.de)
+- Maxim Bex (maximbex at  stud.hs-bremen.de)
+- Hannes Gelbhardt (hgelbhardt at  stud.hs-bremen.de)
+- York Smeddinck (ysmeddinck at  stud.hs-bremen.de)
 
 Cooking Recipes
 https://www.kaggle.com/hugodarwood/epirecipes
@@ -93,8 +93,8 @@ After this, we will discuss more.
 
 ## Project Team 07:
 
- - Clement Gelineau   ( cgelineau@stud.hs-bremen.de)
- - Mariia Muravytska  ( mmuravytska@stud.hs-bremen.de)
+ - Clement Gelineau   ( cgelineau at  stud.hs-bremen.de)
+ - Mariia Muravytska  ( mmuravytska at  stud.hs-bremen.de)
 
 
 Project idea: Facial Expression Recognition
@@ -114,9 +114,9 @@ Compare your results from other 2 kernels.
 
 ## Project Team 08:
 
-- Espen Pering (epering@stud.hs-bremen.de)
-- Falk Kükelhan (fkuekelhan@stud.hs-bremen.de)
-- Dennis Beitler (dbeitler@stud.hs-bremen.de)
+- Espen Pering (epering at  stud.hs-bremen.de)
+- Falk Kükelhan (fkuekelhan at  stud.hs-bremen.de)
+- Dennis Beitler (dbeitler at  stud.hs-bremen.de)
 
 Music creation
 Code exists for this task. 
@@ -151,8 +151,8 @@ Get training time, training-validation loss and other figures.
 
 ## Project Team 10:
 
-- Leon Baumann (lbaumann@stud.hs-bremen.de)
-- Luca Seidler (lseidler@gmx.net)
+- Leon Baumann (lbaumann at  stud.hs-bremen.de)
+- Luca Seidler (lseidler at  gmx.net)
 
 
 https://www.kaggle.com/c/petfinder-adoption-prediction
