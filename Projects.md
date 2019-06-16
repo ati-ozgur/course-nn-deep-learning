@@ -40,7 +40,19 @@ Check with me.
 6. Conclusion
 
 
-I prefer brief to long reports.
+I prefer brief reports to long reports.
+
+
+# Plagiarism 
+
+- What is it?
+- How to avoid it.
+
+
+# Academic Phrase Bank
+
+# Editing vs Drafting
+
 
 
 
