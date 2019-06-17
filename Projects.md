@@ -54,6 +54,12 @@ I prefer brief reports to long reports.
 
 # Academic Phrase Bank
 
+Using common sentence structure in your reports is not Plagiarism.
+You can easily take skeleton structure of common sentence and use it in your reports.
+A good example for common skeleton sentences in academic writing is in following [Academic Phrase Bank web site](http://www.phrasebank.manchester.ac.uk/) .
+
+
+
 # Editing vs Drafting
 
 
