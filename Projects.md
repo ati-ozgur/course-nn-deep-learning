@@ -58,9 +58,24 @@ Using common sentence structure in your reports is not Plagiarism.
 You can easily take skeleton structure of common sentence and use it in your reports.
 A good example for common skeleton sentences in academic writing is in following [Academic Phrase Bank web site](http://www.phrasebank.manchester.ac.uk/) .
 
+An example from Academic Phrase bank site: "Referring to data in a table or chart"
+
+
+
 
 
 # Editing vs Drafting
+
+
+
+
+# Some useful tools
+
+1. [Online table creation in markdown](https://www.tablesgenerator.com/). 
+Markdown is markup language for jupyter notebooks.
+
+
+
 
 
 
