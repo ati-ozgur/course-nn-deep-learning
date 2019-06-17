@@ -61,7 +61,12 @@ A good example for common skeleton sentences in academic writing is in following
 An example from Academic Phrase bank site: "Referring to data in a table or chart"
 
 
-
+|          |          | an overview of …                  |
+|----------|----------|-----------------------------------|
+| Table1   | shows    | the breakdown of X according to … |
+| Figure 1 | compares |                                   |
+|          | presents |                                   |
+|          | ...      |                                   |
 
 
 # Editing vs Drafting
