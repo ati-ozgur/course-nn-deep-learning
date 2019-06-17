@@ -21,7 +21,7 @@ Check with me.
  
 
 
-# Project Reports
+# Project Report Template
 
 1. Introduction
     1. Team members
