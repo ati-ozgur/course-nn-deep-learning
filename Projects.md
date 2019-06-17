@@ -24,19 +24,22 @@ Check with me.
 # Project Reports
 
 1. Introduction
-    1.1. Team members
-    1.2. What team members did for project
+    1. Team members
+    2. What team members did for project
 2. Problem Description
 3. Dataset Description
-    3.1. Where to download
-    3.2. Any preprocessing
-    3.3. problems encountered???
+
+    1. Where to download
+    2. Any preprocessing
+    3. problems encountered???
 4. Neural Network Architecture used
-    4.1. If any known architecture used reference it.
-    4.2. if your own trial, explain a bit.
-    4.3. you can use visualization of NN in this part too.
+
+    1. If any known architecture used reference it.
+    2. if your own trial, explain a bit.
+    3. you can use visualization of NN in this part too.
 5. Training testing results
-    5.1. some figures
+
+    1. some figures
 6. Conclusion
 
 
