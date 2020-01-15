@@ -21,7 +21,8 @@ Google Trends
 ### Others
 
 
-- mxnet
+- [mxnet](https://mxnet.incubator.apache.org/)
+- [chainer](chainer.org)
 - Caffe
 - [DL4J](https://deeplearning4j.org/)
     - [weka deep learning](https://deeplearning.cms.waikato.ac.nz/) used DL4J as backend. 
