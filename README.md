@@ -10,12 +10,6 @@ We will use [google colab](google-colab.md) in the class exclusively to avoid in
 [See Local Installation for required Programs](local-installation.md)
 
 
-## Windows 
-
-    activate gluon
-
-## Linux / MacOS
-    source activate gluon
 
 # Project Ideas
 

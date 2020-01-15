@@ -10,3 +10,13 @@ Download file and use following command
     
     conda env create -f environment-hsb-bremen-2020.yml
 
+
+## Windows 
+
+
+    activate hsb-bremen-2020
+
+## Linux / MacOS
+
+    source activate hsb-bremen-2020
+
