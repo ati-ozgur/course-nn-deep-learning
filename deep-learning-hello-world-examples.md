@@ -2,6 +2,8 @@
 
 - deep-learning-hello-world MNIST
 - deep-learning-hello-world Fashion MNIST
+https://www.tensorflow.org/tutorials/keras/classification
+
 - deep-learning-hello-world Cats vs Dogs
 
 - deep-learning-hello-world Linear Regression 2d
