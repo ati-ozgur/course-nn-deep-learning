@@ -1,16 +1,14 @@
 # Neural Networks and Deep Learning
 Course materials for Neural Networks and Deep Learning course in Hoch Schule Bremen (Applied University of Bremen)
 
+# Google Colab
 
-# Installation
+We will use [google colab](google-colab.md) in the class exclusively to avoid installation problems.
 
-[Installation for required Programs](installation.md)
+# Local Installation
 
-Download file and use following command 
+[See Local Installation for required Programs](local-installation.md)
 
-[Installation environment yml file ](environment-book-d2l.yml)
-    
-    conda env create -f environment-book-d2l.yml
 
 ## Windows 
 
