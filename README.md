@@ -9,11 +9,10 @@ We will use [google colab](google-colab.md) in the class exclusively to avoid in
 
 [See Local Installation for required Programs](local-installation.md)
 
-
-
 # Project Ideas
 
-[Project Ideas for the course](Projects.md)
+Your grades will be calculated according to your project.
+[See Project Ideas for the course](Projects.md)
 
 
 # Lesson 01
