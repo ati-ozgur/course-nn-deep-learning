@@ -3,6 +3,7 @@
 - deep-learning-hello-world MNIST
 - deep-learning-hello-world Fashion MNIST
 https://www.tensorflow.org/tutorials/keras/classification
+https://github.com/tensorflow/docs/blob/master/site/en/tutorials/keras/classification.ipynb
 
 - deep-learning-hello-world Cats vs Dogs
 
