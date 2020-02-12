@@ -3,7 +3,13 @@
 We will use google colab in the class exclusively to avoid installation problems.
 If you want to install local version of python, jupyter, tensorflow and other tools see following [notes](local-installation.md)
 
+## Google colab documentation
+
+[Official documentation](https://colab.research.google.com/notebooks/welcome.ipynb)
+
+
 ## Google colab intro
+
 
 
 
