@@ -1,27 +1,18 @@
 # Neural Networks and Deep Learning
 Course materials for Neural Networks and Deep Learning course in Hoch Schule Bremen (Applied University of Bremen)
 
+# Google Colab
 
-# Installation
+We will use [google colab](google-colab.md) in the class exclusively to avoid installation problems.
 
-[Installation for required Programs](installation.md)
+# Local Installation
 
-Download file and use following command 
-
-[Installation environment yml file ](environment-book-d2l.yml)
-    
-    conda env create -f environment-book-d2l.yml
-
-## Windows 
-
-    activate gluon
-
-## Linux / MacOS
-    source activate gluon
+[See Local Installation for required Programs](local-installation.md)
 
 # Project Ideas
 
-[Project Ideas for the course](Projects.md)
+Your grades will be calculated according to your project.
+[See Project Ideas for the course](Projects.md)
 
 
 # Lesson 01
@@ -43,7 +34,6 @@ Download file and use following command
 # Examples
 
 - [yield iterator example](notebooks/yield_example1.ipynb)
-
 
 
 
