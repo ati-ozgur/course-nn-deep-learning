@@ -110,3 +110,5 @@ examples-in-the-class/*
 notebooks/data/*
 *.params
 *.h5
+*.sav
+*.bak
