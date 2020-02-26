@@ -23,7 +23,7 @@ Google Trends
 
 ### Some Other  Examples
 
-
+- [fastai](https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/) built on top of pytorch
 - [mxnet](https://mxnet.incubator.apache.org/) supported by amazon.
 - [chainer](chainer.org), company behind it will switch to pytorch, [see this web page](https://chainer.org/announcement/2019/12/05/released-v7.html)
 - Caffe
