@@ -34,3 +34,9 @@ Google Trends
 - [Microsoft Cognitive Toolkit (CNTK)](https://github.com/Microsoft/cntk)
 - [Theano](https://github.com/Theano/Theano)
 - https://github.com/PaddlePaddle/Paddle
+
+
+### Comparison videos
+
+- See this [comparison video from creator of fastai](https://youtu.be/XHyASP49ses)
+
