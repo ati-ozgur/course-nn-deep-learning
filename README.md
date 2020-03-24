@@ -14,6 +14,10 @@ We will use [google colab](google-colab.md) in the class exclusively to avoid in
 Your grades will be calculated according to your project.
 [See Project Ideas for the course](Projects.md)
 
+# Books
+
+[Books](books.md)
+
 
 # Lesson 01
 
