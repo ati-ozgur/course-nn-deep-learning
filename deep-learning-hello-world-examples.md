@@ -8,9 +8,9 @@ These examples will start from very easy then go to average difficulty.
 
 
 
-- deep-learning-hello-world Fashion MNIST
-https://www.tensorflow.org/tutorials/keras/classification
-https://github.com/tensorflow/docs/blob/master/site/en/tutorials/keras/classification.ipynb
+2.  [deep learning hello world Fashion MNIST](hello-world-examples/deep-learning-hello-world-mnist.md)
+
+
 
 - deep-learning-hello-world Cats vs Dogs
 
