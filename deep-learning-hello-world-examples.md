@@ -4,7 +4,7 @@ We will do some hello world examples as it is customary in programming.
 These examples will start from very easy then go to average difficulty.
 
 
-1. deep learning hello world MNIST
+1. [deep learning hello world MNIST](hello-world-examples/deep-learning-hello-world-mnist.md)
 
 
 
