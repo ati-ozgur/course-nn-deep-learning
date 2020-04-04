@@ -12,12 +12,10 @@ These examples will start from very easy then go to average difficulty.
 
 3.  [deep learning hello world Linear Regression 2D](hello-world-examples/deep-learning-hello-world-linear-regression-2d.md)
 
-4.  [deep learning hello world Linear Regression 2D](hello-world-examples/deep-learning-hello-world-linear-regression-2d.md)
 
+4.  [deep learning hello world Cats vs Dogs](hello-world-examples/deep-learning-hello-world-cats-vs-dogs.md)
 
-5.  [deep learning hello world Cats vs Dogs](hello-world-examples/deep-learning-hello-world-cats-vs-dogs.md)
+5.  [deep learning hello world Linear Regression House Prices](hello-world-examples/deep-learning-hello-world-linear-regression-house-prices.md)
 
-6.  [deep learning hello world Linear Regression House Prices](hello-world-examples/deep-learning-hello-world-linear-regression-house-prices.md)
-
-7.  [deep learning hello world Hot-dog vs Not Hot dog](hello-world-examples/deep-learning-hello-world-hot-dog-vs-not-hot-dog.md)
+6.  [deep learning hello world Hot-dog vs Not Hot dog](hello-world-examples/deep-learning-hello-world-hot-dog-vs-not-hot-dog.md)
 
