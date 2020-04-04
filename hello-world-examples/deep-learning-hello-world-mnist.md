@@ -6,7 +6,7 @@ Hello world application for the deep learning is the [MNIST dataset](http://yann
 
 
 
-- Tutorial in the [tensorflow site](https://www.tensorflow.org). Run following [jupyter notebook](https://www.tensorflow.org/tutorials/quickstart/beginner)
+Run following [jupyter notebook](notebooks/hello-world-MNIST.ipynb)
 
 
 
