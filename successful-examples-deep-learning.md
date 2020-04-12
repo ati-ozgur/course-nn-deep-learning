@@ -4,3 +4,6 @@ Comparison of CNN Visualization Methods to Aid Model Interpretability for Detect
 https://youtu.be/y4pOeKhQJ24
 
 
+
+
+https://ai.googleblog.com/2020/03/a-neural-weather-model-for-eight-hour.html
