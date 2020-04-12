@@ -12,7 +12,7 @@ Below you can see example images for the MNIST dataset.
 
 
 
-Run following [jupyter notebook](notebooks/hello-world-MNIST.ipynb)
+Run following [jupyter notebook](../notebooks/hello-world-MNIST.ipynb)
 
 
 
