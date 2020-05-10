@@ -109,7 +109,12 @@ temp/*
 examples-in-the-class/*
 
 notebooks/data/*
+notebooks/*.png
+notebooks/*.pdf
+
 *.params
 *.h5
 *.sav
 *.bak
+
+
