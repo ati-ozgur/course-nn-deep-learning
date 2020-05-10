@@ -2,8 +2,9 @@
 ## Lesson 01 Introduction to Python and Other Useful Tools for Machine Learning
 
 We will use mostly jupyter notebooks but ability to debug python code is important skill to have.
-Below is three best debuggers I used before.
+Below is three best debuggers I have used before.
 Unfortunately Visual Studio is windows only but other two Wing IDE and PyCharm is cross platform.
+All of them have education licenses, you may apply for them.
 
 1.1 Python IDEs
 
