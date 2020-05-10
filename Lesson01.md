@@ -58,6 +58,9 @@ You need to rename this file as .pdf to see it.
 For more information, there is an excellent [tutorial for Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) of Jake VanderPlas.
 
 ### Matplotlib
+
+see [Matplotlib tutorial](notebooks/matplotlib-tutorial.ipynb)
+
 Cheat sheet content is enough for our purposes.
 
 [Matplotlib Cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
