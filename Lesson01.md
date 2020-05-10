@@ -30,7 +30,7 @@ Cheat sheet content is enough for our purposes.
 - [Jupyter Cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Jupyter_Notebook_Cheat_Sheet.pdf)
 
 
-For more information, There is an excellent [tutorial for Jupyter](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html) from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) of Jake VanderPlas.
+For more information, there is an excellent [tutorial for Jupyter](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html) from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) of Jake VanderPlas.
 
 
 
@@ -41,7 +41,7 @@ Cheat sheet content is enough for our purposes.
 
 [Numpy Cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 
-For more information, There is an excellent [tutorial for Numpy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)) from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) of Jake VanderPlas.
+For more information, there is an excellent [tutorial for Numpy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)) from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) of Jake VanderPlas.
 
 
 
@@ -52,17 +52,17 @@ Cheat sheet content is enough for our purposes.
 [Pandas Cheat sheet 1](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 
 [Pandas Cheat sheet 2](http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3)
-You need to rename above file as .pdf to see it.
+You need to rename this file as .pdf to see it.
 
 
-For more information, There is an excellent [tutorial for Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) of Jake VanderPlas.
+For more information, there is an excellent [tutorial for Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) of Jake VanderPlas.
 
 ### Matplotlib
 Cheat sheet content is enough for our purposes.
 
 [Matplotlib Cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
 
-For more information, There is an excellent [tutorial for Matplotlib](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html) from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) of Jake VanderPlas.
+For more information, there is an excellent [tutorial for Matplotlib](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html) from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) of Jake VanderPlas.
 
 
 
