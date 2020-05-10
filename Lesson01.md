@@ -21,7 +21,7 @@ All of them have education licenses, you may apply for them.
 
 You do not need to know everything about following tools for our course but knowledge of jupyter notebooks, numpy, pandas and matplotlib are very important for machine learning engineers and data scientists.
 
-### Jupyter knowledge
+### Jupyter
 
 You need to have some jupyter notebook knowledge since most of the course contents will be in them.
 In addition, your project report should be in jupyter notebook format.
@@ -30,16 +30,23 @@ Cheat sheet content is enough for our purposes.
 - [Jupyter Cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Jupyter_Notebook_Cheat_Sheet.pdf)
 
 
-For more information, There is an excellent tutorial from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) of Jake VanderPlas.
+For more information, There is an excellent tutorial for Jupyter from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) of Jake VanderPlas.
 
 - [Ipython and Jupyter Notebooks](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)
 
 
 
+### Numpy 
+
+Cheat sheet content is enough for our purposes.
+
+[Numpy Jupyter Cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
+
+For more information, There is an excellent tutorial for Numpy from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) of Jake VanderPlas.
+
+[Numpy tutorial](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
 
 
-
-1.4 [Numpy tutorial](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
 
 1.5 [Pandas tutorial](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html)
 
