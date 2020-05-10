@@ -10,9 +10,8 @@ Below you can see example images for the MNIST dataset.
 
 
 
+1. [Simplest example](../notebooks/hello-world-MNIST.ipynb)
 
-
-Run following [jupyter notebook](../notebooks/hello-world-MNIST.ipynb)
-
+2. [Extended example](../notebooks/hello-world-MNIST-extended.ipynb)
 
 
