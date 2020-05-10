@@ -15,5 +15,6 @@ Below you can see example images for the Fashion MNIST dataset.
 
 1. [Simplest Example](../notebooks/hello-world-Fashion-MNIST.ipynb)
 
+2. [Extended Example](../notebooks/hello-world-Fashion-MNIST-extended.ipynb)
 
 
