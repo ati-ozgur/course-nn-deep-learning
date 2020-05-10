@@ -30,9 +30,8 @@ Cheat sheet content is enough for our purposes.
 - [Jupyter Cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Jupyter_Notebook_Cheat_Sheet.pdf)
 
 
-For more information, There is an excellent tutorial for Jupyter from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) of Jake VanderPlas.
+For more information, There is an excellent [tutorial for Jupyter](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html) from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) of Jake VanderPlas.
 
-- [Ipython and Jupyter Notebooks](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)
 
 
 
@@ -42,13 +41,15 @@ Cheat sheet content is enough for our purposes.
 
 [Numpy Jupyter Cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 
-For more information, There is an excellent tutorial for Numpy from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) of Jake VanderPlas.
-
-[Numpy tutorial](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
+For more information, There is an excellent [tutorial for Numpy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)) from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) of Jake VanderPlas.
 
 
 
-1.5 [Pandas tutorial](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html)
+### Pandas
+
+Cheat sheet content is enough for our purposes.
+
+For more information, There is an excellent [tutorial for Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) of Jake VanderPlas.
 
 1.6 [Visualization Matplotlib](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
 
