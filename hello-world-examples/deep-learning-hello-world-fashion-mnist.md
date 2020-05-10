@@ -13,8 +13,7 @@ Below you can see example images for the Fashion MNIST dataset.
 
 
 
-
-Run following [jupyter notebook](../notebooks/hello-world-Fashion-MNIST.ipynb)
+1. [Simplest Example](../notebooks/hello-world-Fashion-MNIST.ipynb)
 
 
 
