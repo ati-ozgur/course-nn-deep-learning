@@ -4,5 +4,5 @@ We will use [IMDB Movie reviews](https://keras.rstudio.com/reference/dataset_imd
 
 
 
-- [Example Notebook](../hello-world-linear-boston-house-prices.ipynb)
+- [Example Notebook](../notebooks/hello-world-linear-boston-house-prices.ipynb)
 
