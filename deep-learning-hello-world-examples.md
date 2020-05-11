@@ -19,4 +19,4 @@ These examples will start from very easy then go to average difficulty.
 
 6.  [deep learning hello world Hot-dog vs Not Hot dog](hello-world-examples/deep-learning-hello-world-hot-dog-vs-not-hot-dog.md)
 
-7. [deep learning hello world text binary classification movie reviews](hello-world-examples/deep-learning-hello-world-text-binary-classification-movie-reviews)
+7. [deep learning hello world text binary classification movie reviews](hello-world-examples/deep-learning-hello-world-text-binary-classification-movie-reviews.md)
