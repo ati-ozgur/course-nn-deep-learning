@@ -1,10 +1,11 @@
-how-to-share-notebooks.md
+# how to share notebooks
 
 1. github project
 
+2. kaggle notebook share
+
 2. google colab
 
-3. kaggle notebook share
 
 4. jovian.ml
 
