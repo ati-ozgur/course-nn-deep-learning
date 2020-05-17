@@ -23,9 +23,11 @@ project-template.txt
 
 ## Models
 
-### First basic model performance
+### Baseline model performance
 
-For this one please, merge example notebooks from project page and hello-world notebook from course github site.
+This is the first basic model performance.
+For this task:
+please merge one example notebook from project page and hello-world notebook from course github site.
 
 ####
 
