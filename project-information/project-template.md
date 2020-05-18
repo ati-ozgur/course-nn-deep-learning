@@ -11,7 +11,14 @@
 
 2.1 Why this project is useful for society
 
+2-3 paragraph explanation
+Give examples
+
+
 2.2 Why team members are interested in this project (optional)
+
+Why did you choose this project.
+every team members should write 1-2 sentences for themselves.
 
 3. Dataset information
 
