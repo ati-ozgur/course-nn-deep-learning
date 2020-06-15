@@ -8,6 +8,7 @@
 
 [Edge Detection Example: Canny edge detector ](https://en.wikipedia.org/wiki/Canny_edge_detector)
 
+[fast.ai excel example for Convolutional Networks](https://github.com/fastai/courses/blob/master/deeplearning1/excel/conv-example.xlsx)
 
 [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285)
 
