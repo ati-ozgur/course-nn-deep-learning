@@ -41,6 +41,19 @@ If you want a mathematical reference, you can [A guide to convolution arithmetic
 ![Lenet5](./images/lenet5.png)
 
 
+#### Alexnet
+
+![Alexnet](./images/alexnet.png)
+
+#### Alexnet example from book
+
+![Alexnet from book](./images/alexnet-book.png)
+
+#### VGG16
+
+![VGG16](./images/VGG16.png)
+
+
 ### Cats and Dogs example
 
 ### Image Transforms
