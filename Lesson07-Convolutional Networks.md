@@ -21,7 +21,8 @@ Try following filters
 	1 0 -1
 	1 0 -1
 
-[A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285)
+
+If you want a mathematical reference, you can [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285).
 
 
 [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)
