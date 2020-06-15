@@ -54,7 +54,4 @@ If you want a mathematical reference, you can [A guide to convolution arithmetic
 ![VGG16](./images/VGG16.png)
 
 
-### Cats and Dogs example
-
-### Image Transforms
 
