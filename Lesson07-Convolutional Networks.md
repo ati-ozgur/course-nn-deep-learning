@@ -10,6 +10,17 @@
 
 [fast.ai excel example for Convolutional Networks](https://github.com/fastai/courses/blob/master/deeplearning1/excel/conv-example.xlsx)
 
+Try following filters
+	
+	1   1  1
+	0   0  0
+	-1 -1 -1
+
+
+	1 0 -1
+	1 0 -1
+	1 0 -1
+
 [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285)
 
 
