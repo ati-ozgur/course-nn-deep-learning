@@ -18,6 +18,8 @@
 [How convolutional neural networks see the world](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
 
 
+[Book Chapter](https://d2l.ai/chapter_convolutional-neural-networks/index.html)
+
 ### Cats and Dogs example
 
 ### Image Transforms
