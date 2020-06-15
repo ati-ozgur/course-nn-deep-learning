@@ -33,6 +33,14 @@ If you want a mathematical reference, you can [A guide to convolution arithmetic
 
 [Book Chapter](https://d2l.ai/chapter_convolutional-neural-networks/index.html)
 
+
+### Convolutional neural networks examples
+
+#### Lenet5
+
+![Lenet5](./images/lenet5.png)
+
+
 ### Cats and Dogs example
 
 ### Image Transforms
