@@ -44,17 +44,53 @@ This is the first basic model performance.
 For this task:
 please merge one example notebook from project page and hello-world notebook from course github site.
 
+4.1.1 Model Introduction
+a. Give one paragraph information about the model used
+b. Use plot_model function to plot your model
+
+4.1.1 Give figure of training loss vs validation loss
+
+4.1.1 Give figure of training accuracy vs validation accuracy (or performance metrics used)
+
 4.2 Model 2
 
-4.2 Model 3
+4.2.1 Model Introduction
+a. Give one paragraph information about the model used
+b. Use plot_model function to plot your model
 
-5. 
+4.2.2 Give figure of training loss vs validation loss
+
+4.2.3 Give figure of training accuracy vs validation accuracy (or performance metrics used)
+
+4.3 Model 3
+
+4.3.1 Model Introduction
+a. Give one paragraph information about the model used
+b. Use plot_model function to plot your model
+
+4.3.2 Give figure of training loss vs validation loss
+
+4.3.3 Give figure of training accuracy vs validation accuracy (or performance metrics used)
+
+
 
 5. Performance metrics used
 
-6. Discussion
 
-6.1 Difficulties encountered
+5.1 Table Performance Comparison of Models
 
-7. Conclusion
+| Models          | Training Accuracy | Validation Accuracy | Test Accuracy | Training Time | Other metrics used |
+|-----------------|-------------------|---------------------|---------------|---------------|--------------------|
+| Model Baseline  |                   |                     |               |               |                    |
+| Model 1         |                   |                     |               |               |                    |
+| Model 2         |                   |                     |               |               |                    |
+
+6. Kaggle Results
+Try to submit your results to Kaggle and give your position on the board
+
+7. Discussion
+
+7.1 Difficulties encountered
+
+8. Conclusion
 
