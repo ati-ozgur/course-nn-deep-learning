@@ -92,5 +92,19 @@ Try to submit your results to Kaggle and give your position on the board
 
 7.1 Difficulties encountered
 
+- You can write that, we did not have any significant difficulties due to xxx.
+- write some of the difficulties you have encountered.
+- communication problems in the team or similar.
+- dataset understanding
+- domain understanding
+- starting to project
+
 8. Conclusion
+Conclusion is more about summarizing what you have done.
+We applied x algorithms to this problem.
+Algorithm A has accuracy/performance of yy, while algorithm B has ...
+According to our results, we suggest that A/B is better for this problem.
+...
+
+
 
