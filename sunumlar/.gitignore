@@ -1,2 +1,2 @@
-*_files/*
-*.html
+**/*_files/*
+**/*.html

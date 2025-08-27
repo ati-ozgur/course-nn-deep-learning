@@ -1,0 +1,14 @@
+---
+title: "Büyük dil modelleri giriş"
+format: 
+  revealjs:
+    fontsize: 30px
+---
+
+{{< include ../common/atilla-ozgur-resume-en.md >}}
+
+::: {style="font-size:14px"}
+
+{{< include ../common/atilla-ozgur-employment-history.md >}}
+
+:::
