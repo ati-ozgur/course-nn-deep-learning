@@ -35,9 +35,50 @@ format:
 
 
 
+{{< include ../common/modern-architectures-derived-from-gpt.md >}}
+
+
+{{< include ../common/model-size-capabilities-en.md >}}
+
+
+{{< include ../common/pre-train-llm.md >}}
+
+
+{{< include ../common/after-pretrain.md >}}
 
 
 
+{{< include ../common/how-to-train-your-ChatGPT.md >}}
+
+
+## Course contents for LLM
+
+![](../images/course-content-LLM.png)
+
+
+{{< include ../common/llm-arena.md >}}
+
+{{< include ../common/foundational-base-models.qmd >}}
+
+
+{{< include ../common/retrieval-augmented-generation.qmd >}}
+
+
+{{< include ../common/open-source.qmd >}}
+
+{{< include ../common/fine-tuning-different-techniques.qmd >}}
+
+{{< include ../common/reinforcement-learning-human-feedback.qmd >}}
+
+
+{{< include ../common/no-moat.md >}}
+
+
+{{< include ../common/present.md >}}
+
+{{< include ../common/security.md >}}
+
+{{< include ../common/problems.md >}}
 
 
 

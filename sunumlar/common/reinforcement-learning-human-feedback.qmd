@@ -1,0 +1,57 @@
+
+# Reinforcement Learning Human Feedback (RLHF)
+
+## Reinforcement Learning Human Feedback (RLHF) Idea
+
+![](../images/RL-idea.png)
+
+## Reinforcement Learning Human Feedback (RLHF) Why 1
+
+![](../images/RLHF-why-1.png)
+
+
+## RLHF Why 2: generate vs discriminate
+
+![](../images/RLHF-why-3-generate-vs-discriminate.png)
+
+## RLHF train 1 reward model
+
+![](../images/RLHF-train-1.png)
+
+
+
+## RLHF in unverifiable domains
+
+![](../images/RLHF-in-unverifiable-domains.png)
+
+## RLHF in unverifiable domains reward model
+
+![](../images/RLHF-in-unverifiable-domains-reward-model.png)
+
+## RLHF training
+
+![](../images/RL-training1.png)
+
+## RLHF upside
+
+![](../images/RLHF-upside.png)
+
+## RLHF downside
+
+![](../images/RLHF-downside.png)
+
+## LLM Training: RLHF and Its Alternatives
+
+- Read more from Sebastian Raschka
+
+- Modern transformer-based LLMs, such as ChatGPT or Llama 2, undergo a 3-step training procedure:
+
+	1. Pretraining
+	2. Supervised finetuning
+	3. Alignment
+
+
+- ...
+- [LLM Training: RLHF and Its Alternatives](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives)
+
+

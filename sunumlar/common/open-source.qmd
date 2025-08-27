@@ -1,0 +1,24 @@
+# Open Source models and weights
+
+## Why open-source AI became an American national priority
+
+::: {style="font-size:20px"}
+- When President Trump released the U.S. AI Action Plan last week, many were surprised to see “encourage open-source and open-weight AI,” as one of the administration’s top priorities. 
+- The White House has elevated what was once a highly technical topic into an urgent national concern — and a key strategy to winning the AI race against China.
+- China’s emphasis on open source, also highlighted in its own Action Plan released shortly after the U.S., makes the open-source race imperative. 
+- And the global soft power that comes with more open models from China makes their recent leadership even more notable. 
+
+- [source](https://venturebeat.com/ai/why-open-source-ai-became-an-american-national-priority/)
+
+- [Sam Altman launches GPT-oss, OpenAI's first open-weight AI language model in over 5 years](https://www.businessinsider.com/openai-gpt-oss-open-weight-llm-ai-model-2025-8?op=1)
+
+:::
+
+::: {style="font-size:20px"}
+
+{{< include ../common/americas-AI-Action-Plan-Open-source.md >}}
+
+:::
+
+{{< include ../common/china-open-source.md >}}
+

@@ -1,0 +1,18 @@
+# Fine tuning (alignment) different techniques
+
+## fine tuning different models
+
+![](../images/fine-tuning-different-models.png)
+
+- SFT (Supervised Fine Tuning)
+- RLHF (Reinforcement Learning Human Feedback)
+- PPO (Proximal Policy Optimization)
+- DPO (Direct Preference Optimization)
+
+## GPT Assistant training pipeline
+
+![](../images/GPT-Assistant-training-pipeline.png)
+
+## Fine tuning thoughts
+
+![](../images/fine-tuning-thoughts.png)

@@ -1,0 +1,28 @@
+# RAG (Retrieval augmented generation)
+
+::: {style="font-size:14px"}
+## Model Cutoff times
+
+{{< include ../tables/table-cut-off-times.md >}}
+
+:::
+
+## RAG Why needed
+
+- As all machine learning models, LLMs are also depended on statistical patterns in their training data.
+- For example, an LLM model, which is trained in 2024, will not be able to answer questions about USA president Trump presidency in 2025.
+
+- [Retrieval-Augmented Generation (RAG)](https://arxiv.org/abs/2005.11401) introduced by Facebook researchers address these limitation by connecting LLMs to update data sources. 
+- These sources could be news articles, company internal knowledge base or databases like wikipedia.
+
+## RAG Workflow
+
+![](../images/RAG-workflow.png)
+
+- When a new prompt comes to LLM system, similar documents to this new prompt are searched in databases.
+- Most of the time a vector database is used for fast response times.
+- Then, LLM uses this context enriched prompt to give more up-to-date answers.
+
+- RAG makes LLM outputs more reliable using factual databases.
+- Like previous example of 2025 starting of new USA presidency, RAG enables LLMs to use latest information if their training data is older.
+- RAG could also be adapted to specific domains using relevant databases.

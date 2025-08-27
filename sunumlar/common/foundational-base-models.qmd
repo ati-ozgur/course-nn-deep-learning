@@ -1,0 +1,36 @@
+# Foundational/base models
+
+## Foundational/base models: ollama models popular
+
+![](../images/ollama-models-popular.png)
+
+## Foundational/base models: ollama models instruct
+
+![](../images/ollama-models-instruct.png)
+
+## Foundational/base models: hugging face models
+
+![](../images/hugging-face-models.png)
+
+## Foundational/base models: litgpt models 1
+
+![](../images/litgpt-models-1.png)
+
+## Foundational/base models: litgpt models 2
+
+![](../images/litgpt-models-2.png)
+
+## LLM how to use OpenAI API
+
+![](../images/LLM-how-to-use-OpenAI-Api.png)
+
+## LLM how to use OpenAI API Answer
+
+![](../images/LLM-how-to-use-OpenAI-Api-answer.png)
+
+{{< include ../common/closed-source-models-vs-open-source-models-en.md >}}
+
+{{< include ../tables/table-open-source-models.md >}}
+
+
+{{< include ../common/open-source-LLM-model-lists.md >}}
