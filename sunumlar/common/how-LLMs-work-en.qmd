@@ -1,0 +1,33 @@
+# How Large Language Models (LLMs) work
+
+LLMs are built using supervised learning.
+They repeatedly predict next words using previous words.
+
+**My favorite food is a Döner with spicy souse**
+
+::: {style="font-size:18px"}
+
+| Input A                                | Output |
+|----------------------------------------|--------|
+| My 		                        	 | favorite   |
+| My favorite                        	 | food   |
+| My favorite food                       | is  	  |
+| My favorite food is                    | a  	  |
+| My favorite food is a                  | Döner  |
+| My favorite food is a Döner            | with   |
+| My favorite food is a Döner with       | spicy  |
+| My favorite food is a Döner with spicy | souse  |
+:::
+
+
+## How Large Language Models (LLMs) work 2
+
+![](../images/LLM-how-does-it-work.png)
+
+[source Andrej Karpathy:  Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+
+## Stochastic Parrots
+
+- the term stochastic parrot is a disparaging metaphor, introduced by Emily M. Bender and colleagues in a 2021 paper, that frames large language models as systems that statistically mimic text without real understanding.
+
+![](../images/Stochastic-Parrots.jpeg)

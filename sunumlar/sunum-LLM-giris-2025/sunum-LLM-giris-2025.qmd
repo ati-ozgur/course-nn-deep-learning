@@ -27,3 +27,9 @@ format:
 
 ![](../images/book-build-a-large-language-model-from-scratch.png)
 
+
+{{< include ../common/how-LLMs-work-en.qmd >}}
+
+
+
+{{< include ../common/sources.qmd >}}
