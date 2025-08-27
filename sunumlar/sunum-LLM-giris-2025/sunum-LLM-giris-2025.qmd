@@ -12,3 +12,12 @@ format:
 {{< include ../common/atilla-ozgur-employment-history.md >}}
 
 :::
+
+# Broader AI
+
+![](../figures/broader-AI.png)
+
+# Course contents for LLM
+
+![](../images/course-content-LLM.png)
+
