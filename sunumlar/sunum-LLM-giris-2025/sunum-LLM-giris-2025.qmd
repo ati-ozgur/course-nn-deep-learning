@@ -31,5 +31,14 @@ format:
 {{< include ../common/how-LLMs-work-en.qmd >}}
 
 
+{{< include ../common/neural-networks.qmd >}}
+
+
+
+
+
+
+
+
 
 {{< include ../common/sources.qmd >}}

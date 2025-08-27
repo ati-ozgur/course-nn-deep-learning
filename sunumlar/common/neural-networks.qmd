@@ -1,0 +1,31 @@
+## Neural networks
+
+![](../images/neural-network.png)
+
+
+[Source Andrej Karpathy: 1hr Talk Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+
+## Single Neuron
+
+![](../images/neuron-bias.png)
+
+[source](https://discuss.pytorch.org/t/how-to-separate-each-neurons-weights-and-bias-values-for-convolution-and-fc-layers/136800/2)
+
+## Different activation functions
+
+- Sigmoid, widely used in old NN papers, is not here
+- GELU, GPT activation function, is not here also
+- More than 20 activation functions exist
+- More activation functions are proposed continuously
+
+![](../images/Commonly-used-activation-functions-fx-and-their-derivatives.jpg)
+
+[source: A scalable species-based genetic algorithm for reinforcement learning problems](https://www.cambridge.org/core/journals/knowledge-engineering-review/article/scalable-speciesbased-genetic-algorithm-for-reinforcement-learning-problems/F81D312989BA030713E7CC2E87D20AC7#figures-tab)
+
+
+## Neural networks internals
+
+![](../images/neural-network-internals.png)
+
+
+[source Andrej Karpathy: Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
