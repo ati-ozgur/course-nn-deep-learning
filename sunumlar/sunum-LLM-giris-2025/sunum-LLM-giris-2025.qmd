@@ -21,3 +21,9 @@ format:
 
 ![](../images/course-content-LLM.png)
 
+
+
+## Course book
+
+![](../images/book-build-a-large-language-model-from-scratch.png)
+
