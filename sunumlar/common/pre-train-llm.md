@@ -11,7 +11,12 @@
 
 ## Dump language model 2 (Before pre-train)
 
-![](../images/dump-language-model2.png)
+
+{{< include ../figures/dump-language-model-together-en.mermaid >}}
+
+- here, we have to different vocab sizes, 50257 and 100
+- correspondingly, we will start with two different losses
+
 
 ## Training LLMs Example llama2
 
