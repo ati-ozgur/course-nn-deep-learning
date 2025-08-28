@@ -4,8 +4,10 @@
 
 {{< include ../figures/dump-language-model-1-en.mermaid >}}
 
-at the start of the pre-training, we expect to see similar number, 10.82, for loss value
-
+- When LLM first start training, it randomly generates output.
+- Therefore, probability of any word coming is $\frac{1}{vocabulary size}$
+- GPT2 vocabulary size is 50257
+- at the start of the pre-training, we expect to see similar number, 10.82, for loss value
 
 ## Dump language model 2 (Before pre-train)
 
