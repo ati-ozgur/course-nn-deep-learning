@@ -4,13 +4,19 @@
 
 ![](../images/LLM-visualization-nano-gpt.png)
 
+[source: bbycroft.net/llm](https://bbycroft.net/llm)
+
 ## LLM-visualization gpt2
 
 ![](../images/LLM-visualization-gpt2.png)
 
+[source: bbycroft.net/llm](https://bbycroft.net/llm)
+
 ## LLM-visualization gpt3
 
 ![](../images/LLM-visualization-gpt3.png)
+
+[source: bbycroft.net/llm](https://bbycroft.net/llm)
 
 ## GPT2 sizes
 
