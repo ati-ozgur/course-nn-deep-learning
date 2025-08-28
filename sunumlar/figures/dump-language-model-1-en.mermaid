@@ -1,0 +1,7 @@
+```{mermaid}
+%%| fig-width: 7
+flowchart TD
+    LM[Dump Language Model] -->|Randomly generates output| P("$$p=\frac{1}{50257}$$")
+    P --> L1("$$ L = -ln(p) $$")
+    L1 --> L2("$$ 10.82  $$")
+```

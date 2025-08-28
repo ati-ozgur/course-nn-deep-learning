@@ -2,7 +2,10 @@
 
 ## Dump language model 1 (Before pre-train)
 
-![](../images/dump-language-model1.png)
+{{< include ../figures/dump-language-model-1-en.mermaid >}}
+
+at the start of the pre-training, we expect to see similar number, 10.82, for loss value
+
 
 ## Dump language model 2 (Before pre-train)
 

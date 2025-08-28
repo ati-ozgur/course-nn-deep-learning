@@ -3,6 +3,9 @@ title: "Büyük dil modelleri giriş"
 format: 
   revealjs:
     fontsize: 30px
+    include-in-header:
+            text: |
+                <script src="https://cdn.jsdelivr.net/npm/mermaid@11.2.1/dist/mermaid.min.js"></script>
 ---
 
 {{< include ../common/atilla-ozgur-resume-en.md >}}
