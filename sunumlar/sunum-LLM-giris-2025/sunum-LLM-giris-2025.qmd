@@ -45,6 +45,8 @@ format:
 
 
 {{< include ../common/pre-train-llm.md >}}
+{{< include ../common/pre-train-llm-datasets.md >}}
+{{< include ../common/pre-train-llm-speed-up.md >}}
 
 
 {{< include ../common/after-pretrain.md >}}
