@@ -1,6 +1,6 @@
 # Pretrain Datasets
 
-## When training LLMs quality matters
+## When training LLMs, Data quality matters
 
 - diverse data
 	+ harmful speech
@@ -25,7 +25,7 @@ from Meta’s products or services.
 provides a good performance–cost trade-off, 
 - up-sampling the most factual sources in an effort to increase knowledge and dampen hallucinations.
 
-## Copyrighted Works
+## Copyrighted Works Problem
 
 - Meta staff torrented nearly 82TB of pirated books for AI training — court records reveal copyright violations
 - OpenAI has been sued by novelists as far back as June 2023 for using their books to train its large language models, 
@@ -34,7 +34,9 @@ provides a good performance–cost trade-off,
 - More recently, OpenAI is investigating if DeepSeek illegally obtained data from ChatGPT, which just shows how ironic things can get.
 - [source](https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-staff-torrented-nearly-82tb-of-pirated-books-for-ai-training-court-records-reveal-copyright-violations)
 
-## Using Copyrighted Works in LLMs (www.copyright.com)
+## Using Copyrighted Works in LLMs according to www.copyright.com
+
+
 
 - LLMs use massive amounts of textual works—many of which are protected by copyright. 
 - To do this, LLMs make copies of the works they rely on, which involves copyright in several ways, such as:
