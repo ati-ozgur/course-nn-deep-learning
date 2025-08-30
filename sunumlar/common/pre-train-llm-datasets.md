@@ -64,6 +64,9 @@ provides a good performance–cost trade-off,
 
 ![](../images/pre-training-different-models.png)
 
+[source Sebastian Raschka: LLMs: A Journey Through Time and Architecture](https://www.youtube.com/watch?v=itIab9ZTAqk)
+
+
 ## Pre-training costs of different models
 
 ::: {style="font-size:14px"}
