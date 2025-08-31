@@ -2,6 +2,17 @@
 
 # Present
 
+## We do not understand even small language models
+
+- We can engineer and build LLMs.
+- These LLMs work astonishingly well, in practice.
+- *But*, We do not understand how LLMs work theoretically.
+- But even for 100x parameters small language models, our theory knowledge is lacking
+
+ 
+- [Alexandar Rush: Large Language Models in 5 Formulas](https://youtu.be/k9DnQPrfJQs)
+
+
 ## LLM Scaling Laws
 
 - Hypothesis: The performance of an LLM is a function of
