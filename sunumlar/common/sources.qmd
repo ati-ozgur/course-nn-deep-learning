@@ -14,12 +14,12 @@
 
 -[source Andrej Karpathy: Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
-## Sebastian Raschka
+### Sebastian Raschka
 
 - [source Sebastian Raschka: LLMs: A Journey Through Time and Architecture](https://www.youtube.com/watch?v=itIab9ZTAqk)
 
 
-## Alexander Rush
+### Alexander Rush
 
 https://tech.cornell.edu/people/alexander-rush/
 - [Large Language Models in 5 Formulas](https://drive.usercontent.google.com/download?id=1DGXbMU4cCK15nbLiI3zcuwmvClwzoEsY&export=download&authuser=0)
