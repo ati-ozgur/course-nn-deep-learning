@@ -13,6 +13,26 @@
     9. Overreliance
     10. Model Theft
 
+## Recent example
+
+::: {style="font-size:18px"}
+- [Nx: An AI-first build platform](https://nx.dev/), they use vibe coding.
+
+1. NX created a feature for checking pull request formatting using Claude Code.
+2. This feature puts subject line of github PR to bash without sanitizing.
+3. Somebody realized this security hole and they patched it.
+4. Unfortunately, hole remained in a branch, which allows running github actions.
+5. On 24 August, someone submitted a pull request to NX with exploit code in it. The NX project used NX to automatically test the exploit, like it does all pull requests — by running it!
+6. The NX CI thus handed the attacker NX’s official GitHub key and its publishing key for NPM.
+7. So on 26 August, the attacker added malware to NX, and pushed the malwared versions as official releases!
+
+8. The malware stole a lot of people’s login keys and, apparently, their crypto wallets.
+
+
+[source github nx](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)
+
+[source Pivot to AI](https://pivot-to-ai.com/2025/08/29/vibe-coded-build-system-nx-gets-hacked-steals-vibe-coders-crypto/)
+:::
 
 ## Recent example: Prompt Injection Example
 
