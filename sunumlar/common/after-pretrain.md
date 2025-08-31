@@ -20,9 +20,14 @@
 
 ![](../images/base-models-are-not-assistants-1.png)
 
+- [Andrej Karpathy: State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
+
+
 ## base models are not assistants 2
 
 ![](../images/base-models-are-not-assistants-2.png)
+
+- [Andrej Karpathy: State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 
 ## knowledge of self
 
@@ -33,9 +38,13 @@
 
 ![](../images/human-text-generation-vs-llm-text-generation-1.png)
 
+- [Andrej Karpathy: State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
+
 ## human text generation vs llm text generation 2
 
 ![](../images/human-text-generation-vs-llm-text-generation-2.png)
+
+- [Andrej Karpathy: State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 
 ## Swiss cheese model of LLM
 
