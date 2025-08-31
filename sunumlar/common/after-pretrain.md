@@ -32,7 +32,8 @@
 ## knowledge of self
 
 ![](../images/knowledge-of-self.png)
- [Video: Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+
+- [Video: Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
 ## human text generation vs llm text generation 1
 

@@ -24,9 +24,13 @@
 
 ![](../images/LLM-how-to-use-OpenAI-Api.png)
 
+- [Andrej Karpathy: State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
+
 ## LLM how to use OpenAI API Answer
 
 ![](../images/LLM-how-to-use-OpenAI-Api-answer.png)
+
+- [Andrej Karpathy: State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 
 {{< include ../common/closed-source-models-vs-open-source-models-en.md >}}
 
