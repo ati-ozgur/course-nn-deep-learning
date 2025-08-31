@@ -19,6 +19,10 @@
 - [source Sebastian Raschka: LLMs: A Journey Through Time and Architecture](https://www.youtube.com/watch?v=itIab9ZTAqk)
 
 
+## Alexander Rush
+
+https://tech.cornell.edu/people/alexander-rush/
+- [Large Language Models in 5 Formulas](https://drive.usercontent.google.com/download?id=1DGXbMU4cCK15nbLiI3zcuwmvClwzoEsY&export=download&authuser=0)
 
 ### Articles
 
