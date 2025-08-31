@@ -9,6 +9,8 @@
 - [Video: Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 - [Slides: ](todo add)
 
+- [Video: State of GPT | BRK216HFS](https://www.youtube.com/watch?v=bZQun8Y4L2A)
+
 
 -[source Andrej Karpathy: Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
