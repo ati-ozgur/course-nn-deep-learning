@@ -5,40 +5,57 @@
 
 ![](../images/RL-idea.png)
 
+- [Video: Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+
 ## Reinforcement Learning Human Feedback (RLHF) Why 1
 
 ![](../images/RLHF-why-1.png)
+
+- [Andrej Karpathy: State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 
 
 ## RLHF Why 2: generate vs discriminate
 
 ![](../images/RLHF-why-3-generate-vs-discriminate.png)
 
+- [Video: Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+
+
 ## RLHF train 1 reward model
 
 ![](../images/RLHF-train-1.png)
 
-
+- [Video: Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
 ## RLHF in unverifiable domains
 
 ![](../images/RLHF-in-unverifiable-domains.png)
 
+- [Video: Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+
 ## RLHF in unverifiable domains reward model
 
 ![](../images/RLHF-in-unverifiable-domains-reward-model.png)
+
+- [Video: Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
 ## RLHF training
 
 ![](../images/RL-training1.png)
 
+- [Andrej Karpathy: State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
+
 ## RLHF upside
 
 ![](../images/RLHF-upside.png)
 
+- [Video: Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+
 ## RLHF downside
 
 ![](../images/RLHF-downside.png)
+
+- [Video: Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
 ## LLM Training: RLHF and Its Alternatives
 
