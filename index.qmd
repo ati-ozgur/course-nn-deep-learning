@@ -1,0 +1,30 @@
+
+::: {.content-visible when-profile="def"}
+# Preface (Önsöz) {.unnumbered} 
+
+- [Introduction to database (English)](./en/index.html)
+
+- [Veritabanlarına giriş (Türkçe)](./tr/index.html)
+
+:::
+
+::: {.content-visible when-profile="en"}
+# Preface  {.unnumbered} 
+
+This the lecture notes for Database Management Systems course.
+:::
+
+
+::: {.content-visible when-profile="tr"}
+# Önsöz {.unnumbered} 
+
+Bu ders notları veritabanlarına giriş dersi için hazırlanmıştır.
+
+:::
+
+
+
+
+
+
+

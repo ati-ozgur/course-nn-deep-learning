@@ -1,0 +1,12 @@
+project:
+  output-dir: ./_site/tr
+book:
+  title: "Büyük Dil Modelleri Giriş"
+
+  chapters:
+    - sunumlar/sunum-LLM-giris-2025/sunum-LLM-giris-2025.qmd
+
+
+
+
+

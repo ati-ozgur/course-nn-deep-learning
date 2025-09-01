@@ -1,0 +1,48 @@
+project:
+  type: book
+  execute-dir: "project"
+  output-dir: ./_site
+  preview:
+    port: 4200
+    browser: true
+
+book:
+  author: "Atilla Özgür"
+  date: today
+  date-format: "YYYY-MM-DD"
+  cover-image: cover.png
+  output-file: "nn-deep-learning"
+  title: "Neural Networks and Deep Learning (Yapay Sinir Ağları ve Derin Öğrenme)"
+  chapters:
+      - index.qmd
+
+bibliography: references.bib 
+
+profile:
+  default: sunum-llm
+  group: 
+    - [default,sunum-llm]
+
+
+
+format:
+  html:
+    smooth-scroll: true
+    link-external-icon: true
+    toc-location: left
+    toc-expand: false
+    theme: cosmo
+    mermaid:
+      theme: forest
+  pdf:
+    documentclass: scrreprt
+    keep-tex: true
+    toc: true
+    number-sections: true
+    paper-size: 
+    cite-method: natbib     
+    colorlinks: true    
+    latex-output-dir: .
+    output-file: main
+    mermaid:
+      theme: forest
