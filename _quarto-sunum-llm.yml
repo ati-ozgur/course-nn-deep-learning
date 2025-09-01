@@ -1,5 +1,5 @@
 project:
-  output-dir: ./_site/tr
+  output-dir: ./_site/sunum
 book:
   title: "Büyük Dil Modelleri Giriş"
 
