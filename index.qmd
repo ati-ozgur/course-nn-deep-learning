@@ -1,7 +1,7 @@
 
 
 
-- [Büyük Dil Modelleri Giriş Sunumu](./sunum/sunum-LLM-giris-2025/sunum-LLM-giris-2025.html.html)
+- [Büyük Dil Modelleri Giriş Sunumu](./sunum/sunum-LLM-giris-2025/sunum-LLM-giris-2025.html)
 
 
 
