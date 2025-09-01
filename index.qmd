@@ -1,7 +1,7 @@
 
 
+- [2025 Eylül Sunum](sunum-llm/sunumlar/sunum-LLM-giris-2025/sunum-LLM-giris-2025.html)
 
-- [Büyük Dil Modelleri Giriş Sunumu](./sunum/index.html)
 
 
 
