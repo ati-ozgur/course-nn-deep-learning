@@ -4,7 +4,7 @@ name: quarto Render and deploy rendered html to github pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["main"]
+    branches: ["master"]
     paths:
       - '**.qmd'
       - '**.md'
