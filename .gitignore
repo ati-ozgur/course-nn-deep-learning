@@ -1,3 +1,7 @@
+*.aux
+*.html
+*.pdf
+*.toc
 .quarto/*
 _site/*
 *.tex
