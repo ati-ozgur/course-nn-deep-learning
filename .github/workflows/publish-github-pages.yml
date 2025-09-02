@@ -36,18 +36,28 @@ jobs:
         uses: actions/checkout@v4
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-      - name: Render Quarto Project Profile Def
+
+      - name: Render Quarto Profile Def
         uses: quarto-dev/quarto-actions/render@v2
         env:
           QUARTO_PROFILE: default
         with:
           to: html 
-      - name: Render Quarto Project Profile sunum llm
+
+      - name: Render Quarto Profile sunum llm
         uses: quarto-dev/quarto-actions/render@v2
         env:
           QUARTO_PROFILE: sunum-llm
         with:
           to: html 
+
+      - name: Render Quarto Profile notes
+        uses: quarto-dev/quarto-actions/render@v2
+        env:
+          QUARTO_PROFILE: notes
+        with:
+          to: html 
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
