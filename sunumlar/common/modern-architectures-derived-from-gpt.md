@@ -22,6 +22,9 @@
 
 ![](../images/GPT2-sizes.png)
 
+
+- dModel Context Size
+
 - [Source GPT2 Article: Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
 
