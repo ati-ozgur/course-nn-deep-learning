@@ -7,7 +7,7 @@ Let’s break it down:
 
 ---
 
-### 1. **Dot Product**
+## 1. **Dot Product**
 
 For two vectors $\mathbf{a}, \mathbf{b} \in \mathbb{R}^n$:
 
@@ -30,7 +30,7 @@ So, the dot product grows both with **vector length** and with **alignment**.
 
 ---
 
-### 2. **Cosine Similarity**
+## 2. **Cosine Similarity**
 
 Cosine similarity is the normalized dot product:
 
@@ -46,7 +46,7 @@ This removes the effect of vector magnitude and depends only on the **angle** be
 
 ---
 
-### 3. **Relationship**
+## 3. **Relationship**
 
 * **Cosine similarity is literally the dot product scaled by the product of the magnitudes:**
 
@@ -67,7 +67,7 @@ This removes the effect of vector magnitude and depends only on the **angle** be
 * Cosine similarity isolates **directional alignment** by dividing out the magnitudes.
 * When vectors are normalized, dot product and cosine similarity are exactly the same.
 
-### Pytorch 2D example same direction
+## Pytorch 2D example same direction
 
 
 We’ll compare the **dot product** and **cosine similarity** for two 2D vectors.
@@ -115,7 +115,7 @@ Cosine similarity (torch):  0.9600
 * The **cosine similarity** = 0.96 → shows they are almost pointing in the same direction (small angle between them).
 
 
-### Pytorch 2D example orthogonal (90 degree)
+## Pytorch 2D example orthogonal (90 degree)
 
 ```python
 import torch
@@ -143,7 +143,7 @@ print(f"Cosine similarity (torch):  {cosine_sim_torch.item():.4f}")
 
 ---
 
-### Expected Output
+
 
 ```
 Vector a: tensor([1., 0.])

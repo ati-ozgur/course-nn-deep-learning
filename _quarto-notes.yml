@@ -1,0 +1,12 @@
+project:
+  output-dir: ./_site/notes
+book:
+  title: "Büyük Dil Modelleri Giriş Ders Notları"
+
+  chapters:
+    - course-notes/dot-product-vs-cosine-similarity-en.md
+
+
+
+
+
