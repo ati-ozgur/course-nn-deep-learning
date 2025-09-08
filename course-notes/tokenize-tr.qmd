@@ -93,31 +93,70 @@ Sürüm 16.0, çeşitli sıradan, edebi, akademik ve teknik bağlamlarda kullan�
 
 ### Sorunlar tekrar
 
+- Heceleme
+
+```txt
+strawberry
+heceleme
+```
+
+
 - Aritmetik, toplama çıkarma
 
+```txt
 127 + 677 = 804
 1275 + 6773 = 8041
+```
+
 
 - Büyük küçük harf
 
-
+```txt
 hello
  hello
 HELLO
+```
+
 
 - İngilizce harici diller
 
-- GPT2 Python kodlama problemi vs cl100_base
+```txt
+Merhaba Büyük Dil Modelleri dersine giriş
+```
+
+- Python kodlama problemi: GPT2 vs cl100_base
+
+
+```python
+for i in range(1, 101):
+    if i % 3 == 0 and i % 5 == 0:
+        print("Fifteen")
+    elif i % 3 == 0:
+        print("Three")
+    elif i % 5 == 0:
+        print("Five")
+    else:
+        print(i)
+```
+
 
 - JSON vs YAML
+
+JSON örnek:
 
 ```json
  {"name":"John", "age":30, "car":null}
 ```
+
+YAML versiyonu:
+
+
+```yaml
 ---
 name: John
 age: 30
 car: 
+```
 
 ### SolidGoldMagikarp 
 
