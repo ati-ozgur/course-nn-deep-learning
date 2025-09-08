@@ -1,0 +1,12 @@
+flowchart LR
+    CTD@{ shape: docs, label: "Training Documents"}
+    EX["` Say hello to LLMs`"]
+    CTD --> TD["Tokenized dataset"]
+    TD --> V
+    subgraph ide1 [Vocabulary]
+        V["Vocabulary"]
+        A0[Say] --> T0[0]
+        A1[hello] --> T1[1]
+        A2[to] --> T2[2]
+        A3[LLMs] --> T3[3]
+    end
