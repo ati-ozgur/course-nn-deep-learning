@@ -38,9 +38,9 @@ GPT2 sayılaştırma sözlük boyutu 50257'dir.
 - [Örnek BPE 2 Sebastian Raschka](https://github.com/rasbt/LLMs-from-scratch/blob/main/ch02/05_bpe-from-scratch/bpe-from-scratch.ipynb)
 
 
-## Notebook Tiktoken Tokenizer
+## Notebook Tiktoken Tokenizer GPT2
 
-Example notebook for [Tiktken Tokenizer](https://github.com/ati-ozgur/course-nn-deep-learning/blob/master/notebooks/tokenizer-tiktoken.ipynb)
+Example notebook for [Tiktoken Tokenizer](https://github.com/ati-ozgur/course-nn-deep-learning/blob/master/notebooks/tokenizer-tiktoken.ipynb)
 
 ## Sorunlar tekrar
 
