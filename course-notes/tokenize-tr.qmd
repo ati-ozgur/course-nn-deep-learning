@@ -1,6 +1,6 @@
-# Simgeleştirme (Tokenization)
+# Sayılaştırma (Tokenization)
 
-Bilişim sözlüğü çeviri olarak simgeleştirme vermiş ama bana göre birimleştirme LLM bağlamında daha anlamlı.
+Bilişim sözlüğü çeviri olarak simgeleştirme vermiş ama bana göre sayılaştırma LLM bağlamında daha anlamlı.
 
 
 ## Niçin
@@ -15,33 +15,48 @@ Tüm makine öğrenme yöntemleri gibi, yapay sinir ağları da sadece sayılar 
 
 - [online visualizar tool](https://tiktokenizer.vercel.app/?model=gpt2)
 
+![](../images/tiktokenizer.vercel.app.png)
+
+![](../images/tiktokenizer.vercel.app-example-tr.png)
+
+
+- [visualizer for gpt2 only](https://github.com/sinjoysaha/tiktokenizer-js)
+
+2. örneğin kodu açık ve internet olmadan çalıştırılabiliyor.
+
+
+### Örnek simgeleştirme yazısı
+
+```txt
+{{< include ./src/tokenization-example-string-Andrej-Karpathy.txt >}}
+```
 
 ## Neden önemli?
 
 Andrej Karpathy 2 saatlik [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE) sunumunda aşağıdaki tablo verilmektedir.
 
 
-	Simgeleştirme (Tokenization), LLM'lerin birçok tuhaflığının merkezinde yer alır. 
+	Sayılaştırma (Tokenization), LLM'lerin birçok tuhaflığının merkezinde yer alır. 
 	Bunu göz ardı etmeyin.
 
 
 {{< include ./tables/table-tokenization-karpathy-tr.md >}}
 
 
-## Simgeleştirme Türleri
+## Sayılaştırma Türleri
 
-1. character based
+1. Karakter tabanlı
 
-	- just unicode
-	- n-grams (character based 1-n grams)
+	- unicode
+	- n-grams (karakter tabanlı 1-n grams)
 
-2. word-based
+2. Kelime Tabanlı
 
-	- Word to integers (SimpleTokenizerV1)
+	- Kelimeden tamsayılara (Word to integers). Örnek kod: SimpleTokenizerV1
 	- Bag of words (uni-gram word based)
 	- one-hot-encoding
 
-3. sub-word based
+3. alt kelime (hece benzeri) tabanlı
 
 	- Byte pair encoding (GPT versions)
 	- Sentence piece (LLama versions)
@@ -50,11 +65,13 @@ Sözlük büyük olduğunda, kodlanmış sayılar daha kısa olur.
 Çünkü çoğu sözlük, en çok kullanılan kelimeleri tek bir sayıya kodlamak için frekans analizi kullanır.
 Sözlük küçük olduğunda, tüm kodlanmış sayılar daha uzun olacak ve diziler uzun olacaktır.
 
-### Use Unicode itself
+### Unicode kendisi kullanma
 
-Sözlük geniş
-Unicode standardı canlı ve değişiyor.
-Bu durumda boyutları değişiyor.
+- Sözlük geniş
+- Unicode standardı canlı ve değişiyor. 
+- Bu durumda boyutları değişiyor.
+- Yeni gelen Unicode sembollerde sorun yaşanacaktır.
+
 Örneğin [Anadolu hiyeroglifleri](https://en.wikipedia.org/wiki/Anatolian_Hieroglyphs_(Unicode_block)), [emojiler](https://www.unicode.org/emoji/charts/full-emoji-list.html) ...  eklendi
 
 - 𔐀‎ 	𔐁‎ 	𔐂‎ 	𔐃‎ 	𔐄‎ 	𔐅
@@ -66,30 +83,6 @@ utf8,utf16,utf32 gibi farklı standartlar var.
 Sürüm 16.0, çeşitli sıradan, edebi, akademik ve teknik bağlamlarda kullanılan 154.998 karakteri ve 168 betiği tanımlar.
 
 
-
-
-
-
-
-## Visualizer
-
-- [online visualizar tool](https://tiktokenizer.vercel.app/?model=gpt2)
-- [visualizer for gpt2 only](https://github.com/sinjoysaha/tiktokenizer-js)
-
-yerel kod var.
-
-
-### Örnek resimler
-
-![](../images/tiktokenizer.vercel.app.png)
-
-![](../images/tiktokenizer.vercel.app-example-tr.png)
-
-### Örnek simgeleştirme yazısı
-
-```txt
-{{< include ./src/tokenization-example-string-Andrej-Karpathy.txt >}}
-```
 
 ### Sorunlar tekrar
 
@@ -118,7 +111,7 @@ like Un-allocated memory in C
 
 
 
-## Tokenization Vocabulary Sizes Of Llm Models
+## Tokenization Vocabulary Sizes Of LLM Models
 
 {{< include ./tables/table-tokenization-vocabulary-sizes-of-llm-models.md >}}
 
@@ -133,11 +126,11 @@ https://www.geeksforgeeks.org/nlp/byte-pair-encoding-bpe-in-nlp/
 
 https://github.com/karpathy/minbpe/blob/master/exercise.md
 
-## Videos
+## Kaynak Vidyolar
 
 [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
 
-## Links
+## Bağlantılar
 
 https://www.beren.io/2023-02-04-Integer-tokenization-is-insane/
 https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation

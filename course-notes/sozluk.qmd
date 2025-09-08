@@ -3,5 +3,5 @@
 
 | English      | Türkçe        | Not |
 |--------------|---------------|-----|
-| Tokenization | Simgeleştirme |     |
+| Tokenization | Sayılaştırma  |     |
 | Embedding    | Yerleştirme   |     |
