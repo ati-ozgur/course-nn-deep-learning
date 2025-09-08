@@ -93,34 +93,56 @@ Sürüm 16.0, çeşitli sıradan, edebi, akademik ve teknik bağlamlarda kullan�
 
 ### Sorunlar tekrar
 
-2a. talk number issue
-2b. upper lowercase
-2c. Non English languages
-2d. Code
-2e. Another tokenizer cl100_base
-this works better for python code
-
-
+- Aritmetik, toplama çıkarma
 
 127 + 677 = 804
 1275 + 6773 = 8041
 
-.DefaultCellStyle
-SolidGoldMagikarp 
-single reddit user.
-Tokenization dataset and LLM training dataset is different.
-SolidGoldMagikarp this token does not exists in LLM training dataset.
-like Un-allocated memory in C
+- Büyük küçük harf
 
+
+hello
+ hello
+HELLO
+
+- İngilizce harici diller
+
+- GPT2 Python kodlama problemi vs cl100_base
+
+- JSON vs YAML
+
+```json
+ {"name":"John", "age":30, "car":null}
+```
+---
+name: John
+age: 30
+car: 
+
+### SolidGoldMagikarp 
+
+Bu bir reddit kullanıcısı.
+ChatGPT 14 Şubat 2023'ten önce **SolidGoldMagikarp** hakkında soru sorulduğu zaman hata veriyordu.
+GPT3 için BPE algoritması eğitilirken reddit üzerinden alınan bir metin grubu kullanılmış.
+SolidGoldMagikarp bu yazı grubu içinde çok fazla yazının sahibi.
+
+Tahminlere göre, Sayılaştırma veri seti ile LLM veri seti farklı.
+SolidGoldMagikarp sayısı (token), LLM veri setinde yok.
+Bu yüzden girdi olarak verildiğinde C dilinde oluşan atanmamış bellek (Un-allocated memory) hatası gibi bir şey oluyor.
+Daha fazlası için bakınız: 
 
 - [SolidGoldMagikarp article](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)
+- https://www.beren.io/2023-02-04-Integer-tokenization-is-insane/
+- https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation
+- https://www.lesswrong.com/posts/Ya9LzwEbfaAMY8ABo/solidgoldmagikarp-ii-technical-details-and-more-recent
+- https://aizi.substack.com/p/explaining-solidgoldmagikarp-by-looking
+- https://deconstructing.ai/deconstructing-ai%E2%84%A2-blog/f/the-enigma-of-solidgoldmagikarp-ais-strangest-token
 
 
 
+## LLM Modellerinin Tokenizasyon Sözlük Boyutları 
 
-## Tokenization Vocabulary Sizes Of LLM Models
-
-{{< include ./tables/table-tokenization-vocabulary-sizes-of-llm-models.md >}}
+{{< include ./tables/table-tokenization-vocabulary-sizes-of-llm-models-en.md >}}
 
 
 
@@ -137,17 +159,10 @@ https://github.com/karpathy/minbpe/blob/master/exercise.md
 
 [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
 
-## Bağlantılar
 
-https://www.beren.io/2023-02-04-Integer-tokenization-is-insane/
-https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation
-https://www.lesswrong.com/posts/Ya9LzwEbfaAMY8ABo/solidgoldmagikarp-ii-technical-details-and-more-recent
-https://aizi.substack.com/p/explaining-solidgoldmagikarp-by-looking
-https://deconstructing.ai/deconstructing-ai%E2%84%A2-blog/f/the-enigma-of-solidgoldmagikarp-ais-strangest-token
-## Other Libraries
+## Kütüphaneler
 
-https://github.com/google/sentencepiece
-https://github.com/openai/tiktoken
-
-https://github.com/karpathy/minbpe/
+- https://github.com/google/sentencepiece
+- https://github.com/openai/tiktoken
+- https://github.com/karpathy/minbpe/
 
