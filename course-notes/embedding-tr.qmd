@@ -1,0 +1,10 @@
+# Yerleştirme (embedding)
+
+
+
+https://andkret.github.io/embedding-playground/
+
+
+## Good Videos
+
+- [What Are Word Embeddings?](https://www.youtube.com/watch?v=hVM8qGRTaOA)

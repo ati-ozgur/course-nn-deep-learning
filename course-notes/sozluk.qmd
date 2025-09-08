@@ -1,0 +1,7 @@
+# Sözlük
+
+
+| English      | Türkçe        | Not |
+|--------------|---------------|-----|
+| Tokenization | Simgeleştirme |     |
+| Embedding    | Yerleştirme   |     |

@@ -4,8 +4,10 @@ book:
   title: "Büyük Dil Modelleri Giriş Ders Notları"
 
   chapters:
+    - course-notes/tokenize-tr.qmd
     - course-notes/dot-product-vs-cosine-similarity-en.md
-
+    - course-notes/embedding-tr.qmd
+    - course-notes/sozluk.qmd
 
 
 
