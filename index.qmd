@@ -1,10 +1,13 @@
+# Preface {.unnumbered}
 
+Notlar Sıfırdan Büyük Dil Modellerinin (LLM from scratch) dersi için hazırlanmıştır.
+
+
+## Links
 
 - [2025 Eylül Sunum](sunum-llm/sunumlar/sunum-LLM-giris-2025/sunum-LLM-giris-2025.html)
 
 - [2025 Eylül Ders Notları](notes/index.html)
-
-
 
 - [Github repo: LLM from scratch](https://github.com/rasbt/LLMs-from-scratch)
 
