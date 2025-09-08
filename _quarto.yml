@@ -21,7 +21,7 @@ bibliography: references.bib
 profile:
   default: notes
   group: 
-    - [default,sunum-llm,notes]
+    - [sunum-llm,notes]
 
 
 
