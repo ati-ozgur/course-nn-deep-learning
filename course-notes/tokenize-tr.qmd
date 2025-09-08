@@ -142,6 +142,8 @@ Daha fazlası için bakınız:
 
 ## LLM Modellerinin Tokenizasyon Sözlük Boyutları 
 
+ChatGPT 5 ile üretilmiştir.
+
 {{< include ./tables/table-tokenization-vocabulary-sizes-of-llm-models-en.md >}}
 
 
