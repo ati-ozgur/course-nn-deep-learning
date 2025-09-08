@@ -124,7 +124,7 @@ HELLO
 Merhaba Büyük Dil Modelleri dersine giriş
 ```
 
-- Python kodlama problemi: GPT2 vs cl100_base
+- Python kodlama problemi: GPT2  vs cl100_base
 
 
 ```python
@@ -189,12 +189,43 @@ ChatGPT 5 ile üretilmiştir.
 
 ## Çift bayt kodlama (Byte pair encoding)
 
-https://en.wikipedia.org/wiki/Byte-pair_encoding
-https://www.geeksforgeeks.org/nlp/byte-pair-encoding-bpe-in-nlp/
+- [Byte pair encoding wikipedia](https://en.wikipedia.org/wiki/Byte-pair_encoding) örneği
 
-### Byte pair encoding: Nasıl çalışır
+Örnek olarak aşağıdaki veriyi kodlalım.
 
-https://github.com/karpathy/minbpe/blob/master/exercise.md
+	aaabdaaabac
+
+
+aa çifti en çok geçtiği için, onun yerine Z simgesi verilcektir.
+Bu durumda aşağıdaki veri ve sözlük oluşturulacaktır. 
+
+	ZabdZabac
+	Z=aa
+
+Aynı süreç tekrarlanır ve ab yerine Y yerleştirilir.
+
+	ZYdZYac
+	Y=ab
+	Z=aa
+
+
+Bu veride en fazla tekrar eden ZY çifti, X ile değiştirilir.
+
+
+	XdXac
+	X=ZY
+	Y=ab
+	Z=aa
+
+Büyük verilerde sözlük büyüklüğüne görede kodlama durabilir.
+Örneğin en fazla 10 simge kullanılacaktır denilebilir.
+GPT2 sayılaştırma sözlük boyutu 50257'dir.
+
+
+
+- [Örnek BPE 1 Andrej Karpathy](https://github.com/karpathy/minbpe/blob/master/exercise.md)
+- [Örnek BPE 2 Sebastian Raschka](https://github.com/rasbt/LLMs-from-scratch/blob/main/ch02/05_bpe-from-scratch/bpe-from-scratch.ipynb)
+
 
 ## Kaynak Vidyolar
 
