@@ -196,20 +196,20 @@ ChatGPT 5 ile üretilmiştir.
 	aaabdaaabac
 
 
-aa çifti en çok geçtiği için, onun yerine Z simgesi verilcektir.
+**aa** çifti en çok geçtiği için, onun yerine Z simgesi verilcektir.
 Bu durumda aşağıdaki veri ve sözlük oluşturulacaktır. 
 
 	ZabdZabac
 	Z=aa
 
-Aynı süreç tekrarlanır ve ab yerine Y yerleştirilir.
+Aynı süreç tekrarlanır ve **ab** yerine Y yerleştirilir.
 
 	ZYdZYac
 	Y=ab
 	Z=aa
 
 
-Bu veride en fazla tekrar eden ZY çifti, X ile değiştirilir.
+Bu veride en fazla tekrar eden **ZY** çifti, X ile değiştirilir.
 
 
 	XdXac
