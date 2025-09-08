@@ -43,6 +43,10 @@ Andrej Karpathy 2 saatlik [Let's build the GPT Tokenizer](https://www.youtube.co
 
 ## Sayılaştırma Türleri
 
+
+{{< include ./figures/tokenization-types-en.mermaid >}}
+
+
 1. Karakter tabanlı
 
 	- unicode
