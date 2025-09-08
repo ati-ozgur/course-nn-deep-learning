@@ -8,18 +8,24 @@ Bilişim sözlüğü çeviri olarak simgeleştirme vermiş ama bana göre biriml
 Tüm makine öğrenme yöntemleri gibi, yapay sinir ağları da sadece sayılar ile çalıştığı için verilen metinleri sayılara çevirmek gerekiyor.
 
 
+{{< include ./figures/tokenize-workflow.mermaid >}}
+
+## Görselleştirme 
+
+
+- [online visualizar tool](https://tiktokenizer.vercel.app/?model=gpt2)
+
 
 ## Neden önemli?
 
-Andrej Karpathy sunumunda
+Andrej Karpathy 2 saatlik [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE) sunumunda aşağıdaki tablo verilmektedir.
 
-	Simgeleştirme (Tokenization) :(
 
-	Tokenleştirme, LLM'lerin birçok tuhaflığının merkezinde yer alır. 
+	Simgeleştirme (Tokenization), LLM'lerin birçok tuhaflığının merkezinde yer alır. 
 	Bunu göz ardı etmeyin.
 
 
-{{< include ./tables/table-tokenization-karpathy.md >}}
+{{< include ./tables/table-tokenization-karpathy-tr.md >}}
 
 
 ## Simgeleştirme Türleri
