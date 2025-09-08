@@ -40,7 +40,7 @@ GPT2 sayılaştırma sözlük boyutu 50257'dir.
 
 ## Notebook Tiktoken Tokenizer
 
-Example notebook for [Tiktken Tokenizer](https://github.com/ati-ozgur/course-nn-deep-learning/blob/master/notebooks/tokenizer-simple.ipynb)
+Example notebook for [Tiktken Tokenizer](https://github.com/ati-ozgur/course-nn-deep-learning/blob/master/notebooks/tokenizer-tiktoken.ipynb)
 
 ## Sorunlar tekrar
 
