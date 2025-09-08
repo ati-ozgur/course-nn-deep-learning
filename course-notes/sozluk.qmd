@@ -5,3 +5,6 @@
 |--------------|---------------|-----|
 | Tokenization | Sayılaştırma  |     |
 | Embedding    | Yerleştirme   |     |
+| Encoding    | kodlama   |     |
+| Decoding    | çözümleme   |     |
+

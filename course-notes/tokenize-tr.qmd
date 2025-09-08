@@ -13,16 +13,14 @@ Tüm makine öğrenme yöntemleri gibi, yapay sinir ağları da sadece sayılar 
 ## Görselleştirme 
 
 
-- [online visualizar tool](https://tiktokenizer.vercel.app/?model=gpt2)
+- [çevrimiçi tiktokenizer](https://tiktokenizer.vercel.app/?model=gpt2)
 
 ![](../images/tiktokenizer.vercel.app.png)
 
 ![](../images/tiktokenizer.vercel.app-example-tr.png)
 
 
-- [visualizer for gpt2 only](https://github.com/sinjoysaha/tiktokenizer-js)
-
-2. örneğin kodu açık ve internet olmadan çalıştırılabiliyor.
+- [sadece gpt2 görselleştirme aracı](https://github.com/sinjoysaha/tiktokenizer-js) kodu açık ve internet olmadan çalıştırılabiliyor.
 
 
 ### Örnek simgeleştirme yazısı
@@ -33,7 +31,7 @@ Tüm makine öğrenme yöntemleri gibi, yapay sinir ağları da sadece sayılar 
 
 ## Neden önemli?
 
-Andrej Karpathy 2 saatlik [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE) sunumunda aşağıdaki tablo verilmektedir.
+Andrej Karpathy 2 saatlik [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE) sunumunda aşağıdaki cümle ile başlamaktadır ve arkasından aşağıdaki tablo verilmektedir. 
 
 
 	Sayılaştırma (Tokenization), LLM'lerin birçok tuhaflığının merkezinde yer alır. 
@@ -63,7 +61,12 @@ Andrej Karpathy 2 saatlik [Let's build the GPT Tokenizer](https://www.youtube.co
 
 Sözlük büyük olduğunda, kodlanmış sayılar daha kısa olur.
 Çünkü çoğu sözlük, en çok kullanılan kelimeleri tek bir sayıya kodlamak için frekans analizi kullanır.
-Sözlük küçük olduğunda, tüm kodlanmış sayılar daha uzun olacak ve diziler uzun olacaktır.
+Bu durumda, LLM parametre sayısı daha az olacaktır.
+
+
+Sözlük küçük olduğunda, girdi yazısı daha uzun bir sayı kümesi ile kodlanacaktır.
+LLM parametre sayısı azalır ama bir sonraki sayı (token) tahmini zorlaşır.
+
 
 ### Unicode kendisi kullanma
 
@@ -117,12 +120,12 @@ like Un-allocated memory in C
 
 
 
-## Byte pair encoding
+## Çift bayt kodlama (Byte pair encoding)
 
 https://en.wikipedia.org/wiki/Byte-pair_encoding
 https://www.geeksforgeeks.org/nlp/byte-pair-encoding-bpe-in-nlp/
 
-### Byte pair encoding: How it works
+### Byte pair encoding: Nasıl çalışır
 
 https://github.com/karpathy/minbpe/blob/master/exercise.md
 
