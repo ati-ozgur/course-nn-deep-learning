@@ -1,9 +1,14 @@
 ```{mermaid}
 flowchart TD
     T{Tokenization}
-    T -->|Character based| C[Unicode, n-grams]
+    T -->|Character based| C
+    C["`Unicode 
+    n-grams`"]
     T -->|Word based| W 
-    W["word to integers, bag of words, one-hot-encoding"]
+    W["`word to integers
+    bag of words
+    one-hot-encoding`"]
     T -->|Sub word based| SW 
-    SW[" Byte pair encoding, Sentence Piece"]
+    SW["` Byte pair encoding
+    Sentence Piece`"]
 ```
