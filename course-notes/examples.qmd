@@ -1,0 +1,32 @@
+## examples to use while writing book
+
+# Temeller Açıklamalar (Comments)  {#sec-temeller-aciklamalar}
+
+
+{{< include ./dosyaadi.qmd >}}
+
+
+{{< include ../tables/table-tokenization-karpathy.md >}}
+ 
+
+Aşağıda bu projenin bitmiş halini görebilirsiniz.
+
+![](./resimler/proje-son-hali-giris.png)
+
+
+```java
+import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
+```
+
+
+
+
+:::{.callout-tip}
+import komutuna neden ihtiyacımız olduğu hakkında daha fazla bilgi için [Bölüm -@sec-temeller-import] okuyabilirsiniz.
+:::
+
+
+:::{.callout-tip}
+Yapmanız istenen fonksiyon çıkarma kurgulaması hakkında daha fazla bilgi ve örnekler için  [Bölüm -@sec-tr-kurgulamalar-refactorings-fonksiyon-cikarma-extract-function] okuyabilirsiniz.
+:::
+
