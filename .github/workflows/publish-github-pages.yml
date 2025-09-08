@@ -37,13 +37,6 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render Quarto Profile Def
-        uses: quarto-dev/quarto-actions/render@v2
-        env:
-          QUARTO_PROFILE: default
-        with:
-          to: html 
-
       - name: Render Quarto Profile sunum llm
         uses: quarto-dev/quarto-actions/render@v2
         env:
