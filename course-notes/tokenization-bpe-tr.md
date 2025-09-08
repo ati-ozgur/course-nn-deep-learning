@@ -38,6 +38,105 @@ GPT2 sayılaştırma sözlük boyutu 50257'dir.
 - [Örnek BPE 2 Sebastian Raschka](https://github.com/rasbt/LLMs-from-scratch/blob/main/ch02/05_bpe-from-scratch/bpe-from-scratch.ipynb)
 
 
+## Notebook Tiktoken Tokenizer
+
+Example notebook for [Tiktken Tokenizer](https://github.com/ati-ozgur/course-nn-deep-learning/blob/master/notebooks/tokenizer-simple.ipynb)
+
+## Sorunlar tekrar
+
+- Heceleme
+
+```txt
+strawberry
+heceleme
+```
+
+
+- Aritmetik, toplama çıkarma
+
+```txt
+127 + 677 = 804
+1275 + 6773 = 8041
+```
+
+
+- Büyük küçük harf
+
+```txt
+hello
+ hello
+HELLO
+```
+
+
+- İngilizce harici diller
+
+```txt
+Merhaba Büyük Dil Modelleri dersine giriş
+```
+
+- Python kodlama problemi: GPT2  vs cl100_base
+
+
+```python
+for i in range(1, 101):
+    if i % 3 == 0 and i % 5 == 0:
+        print("Fifteen")
+    elif i % 3 == 0:
+        print("Three")
+    elif i % 5 == 0:
+        print("Five")
+    else:
+        print(i)
+```
+
+
+- JSON vs YAML
+
+JSON örnek:
+
+```json
+ {"name":"John", "age":30, "car":null}
+```
+
+YAML versiyonu:
+
+
+```yaml
+---
+name: John
+age: 30
+car: 
+```
+
+### SolidGoldMagikarp 
+
+Bu bir reddit kullanıcısı.
+ChatGPT 14 Şubat 2023'ten önce **SolidGoldMagikarp** hakkında soru sorulduğu zaman hata veriyordu.
+GPT3 için BPE algoritması eğitilirken reddit üzerinden alınan bir metin grubu kullanılmış.
+SolidGoldMagikarp bu yazı grubu içinde çok fazla yazının sahibi.
+
+Tahminlere göre, Sayılaştırma veri seti ile LLM veri seti farklı.
+SolidGoldMagikarp sayısı (token), LLM veri setinde yok.
+Bu yüzden girdi olarak verildiğinde C dilinde oluşan atanmamış bellek (Un-allocated memory) hatası gibi bir şey oluyor.
+Daha fazlası için bakınız: 
+
+- [SolidGoldMagikarp article](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)
+- https://www.beren.io/2023-02-04-Integer-tokenization-is-insane/
+- https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation
+- https://www.lesswrong.com/posts/Ya9LzwEbfaAMY8ABo/solidgoldmagikarp-ii-technical-details-and-more-recent
+- https://aizi.substack.com/p/explaining-solidgoldmagikarp-by-looking
+- https://deconstructing.ai/deconstructing-ai%E2%84%A2-blog/f/the-enigma-of-solidgoldmagikarp-ais-strangest-token
+
+
+
+## LLM Modellerinin Tokenizasyon Sözlük Boyutları 
+
+ChatGPT 5 ile üretilmiştir.
+
+{{< include ./tables/table-tokenization-vocabulary-sizes-of-llm-models-en.md >}}
+
+
 ## Kaynak Vidyolar
 
 [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
