@@ -94,6 +94,10 @@ Sürüm 16.0, çeşitli sıradan, edebi, akademik ve teknik bağlamlarda kullan�
 Example notebook for [SimpleTokenizer](https://github.com/ati-ozgur/course-nn-deep-learning/blob/master/notebooks/tokenizer-simple.ipynb)
 
 
+## Özel Simgeler (sayılar)
+
+{{< include ./tables/table-tokenization-special-tokens-tr.md >}}
+
 
 {{< include ./tokenization-bpe-tr.md >}}
 
