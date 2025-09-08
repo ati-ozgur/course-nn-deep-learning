@@ -89,9 +89,11 @@ utf8,utf16,utf32 gibi farklı standartlar var.
 - [unicode wikipedia](https://en.wikipedia.org/wiki/Unicode)
 Sürüm 16.0, çeşitli sıradan, edebi, akademik ve teknik bağlamlarda kullanılan 154.998 karakteri ve 168 betiği tanımlar.
 
+## Notebook SimpleTokenizer
 
+Example notebook for [SimpleTokenizer](https://github.com/ati-ozgur/course-nn-deep-learning/blob/master/notebooks/tokenizer-simple.ipynb)
 
-### Sorunlar tekrar
+## Sorunlar tekrar
 
 - Heceleme
 
@@ -234,7 +236,10 @@ GPT2 sayılaştırma sözlük boyutu 50257'dir.
 
 ## Kütüphaneler
 
-- https://github.com/google/sentencepiece
-- https://github.com/openai/tiktoken
-- https://github.com/karpathy/minbpe/
+- [sentencepiece](https://github.com/google/sentencepiece) Tokenizer Google: LLaMa, some Google LLMs
+- [tiktoken](https://github.com/openai/tiktoken) Tokenizer OpenAI: GPT2, GPT4, ....
+
+[Örnek notebook](https://github.com/openai/openai-cookbook/blob/main/examples/How_to_count_tokens_with_tiktoken.ipynb)
+
+- [minbpe](https://github.com/karpathy/minbpe/)
 
