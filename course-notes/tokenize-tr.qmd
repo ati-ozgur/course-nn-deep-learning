@@ -98,6 +98,10 @@ Example notebook for [SimpleTokenizer](https://github.com/ati-ozgur/course-nn-de
 
 {{< include ./tables/table-tokenization-special-tokens-tr.md >}}
 
+GPT2 dolgulama ve yazı bitişi için aynı simge olan <|endoftext|> kullanmaktadır.
+GPT2, sayılaştırma algoritması olarak BPE kullandığı için [UNK] bilinmeyen simgesine ihtiyaç duymamaktadır.
+
+
 
 {{< include ./tokenization-bpe-tr.md >}}
 
