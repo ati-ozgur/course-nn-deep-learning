@@ -1,0 +1,36 @@
+flowchart BT
+    T["Tokenized text"]
+    TEL["Token embedding layer"]
+    PEL["Positional embedding layer"]
+    SC1((" "))
+    D1["Dropout"]
+    LN1["LayerNorm 1"]
+    MHA["Masked multi-head attention"]
+    D2["Dropout"]
+    SC2(("+"))
+    LN2["LayerNorm 2"]
+    FF["Feed forward"]
+    D3["Dropout"]
+    SC3(("+"))
+    LNF["Final LayerNorm"]
+    LOL["Linear output layer"]
+
+    T --> TEL 
+    TEL --> PEL --> SC1
+    %% Group repeated transformer block
+    subgraph TransformerBlock["Transform Block"]
+        SC1 --> D1
+        SC1 --> SC2
+        D1 --> LN1 --> MHA
+        MHA --> SC2
+        SC2 --> D2 --> LN2
+        LN2 --> FF --> D3
+        D3 --> SC3
+        SC2 --> SC3
+    end
+
+    SC3 --> LNF
+    LNF --> LOL
+
+Note2["Repeat transformer block:\n 12x (small)\n 24x (medium)\n 36x (large)\n 48x (xl)"]
+ 
