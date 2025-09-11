@@ -15,22 +15,23 @@ flowchart BT
     LNF["Final LayerNorm"]
     LOL["Linear output layer"]
 
-    T --> TEL 
-    TEL --> PEL --> SC1
+    T ==>  TEL 
+    TEL ==>  PEL -->  SC1
     %% Group repeated transformer block
     subgraph TransformerBlock["Transform Block"]
-        SC1 --> D1
-        SC1 --> SC2
-        D1 --> LN1 --> MHA
-        MHA --> SC2
-        SC2 --> D2 --> LN2
-        LN2 --> FF --> D3
-        D3 --> SC3
-        SC2 --> SC3
+        SC1 ==>  D1
+        SC1 -->  SC2
+        SC2 -->  SC3
+
+        D1 ==>  LN1 ==>  MHA
+        MHA ==>  SC2
+        SC2 ==>  D2 ==>  LN2
+        LN2 ==>  FF ==>  D3
+        D3 ==>  SC3
     end
 
-    SC3 --> LNF
-    LNF --> LOL
+    SC3 ==>  LNF
+    LNF ==>  LOL
 
 Note2["Repeat transformer block:\n 12x (small)\n 24x (medium)\n 36x (large)\n 48x (xl)"]
  
