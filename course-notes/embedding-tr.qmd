@@ -15,6 +15,20 @@ Yerleştirmelerin amacı aşağıdakine benzeyen bir şekilde bu kelimelerin say
 {{< include ./tables/table-embedding-example-tr.md >}}
 
 
+Buradaki özellikler örnek olarak verilmiştir.
+Yapay sinir ağları bu özellikleri kendisi öğrenir.
+
+Buradaki özellik boyutu 5 örnek olarak verilmiştir.
+Normalde bu sayılar çok daha büyüktür.
+Aşağıda önceden eğitilmiş, all-MiniLM-L6-v2, yerleştirme modeli 384 boyutludur.
+
+LLM modellerinin parametre sayısını belirleyen kıstaslardan biride yerleştirme boyutlarıdır.
+Aşağıda bilinen bazı LLM modellerinin yerleştirme boyutları verilmiştir.
+
+{{< include ./tables/table-embeddings-vs-llm-models-sizes.md >}}
+
+
+
 
 ## Mühendislikte dönüşümler
 
