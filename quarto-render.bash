@@ -8,7 +8,9 @@ cd $SUBDIR
 quarto render "${SLIDES}.qmd" --to html
 cd ..
 quarto render --to html
-ls $TARGET
+#ls $TARGET
 cp "$SUBDIR/${SLIDES}.html" $TARGET
 cp -r "$SUBDIR/${SLIDES}_files" $TARGET
-ls $TARGET
+cp sunumlar/images/* _site/images/
+#ls $TARGET
+#ls $TARGET/images
