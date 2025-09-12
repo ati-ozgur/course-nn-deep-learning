@@ -40,6 +40,12 @@ kelime yerleştirme için etkileşimli web uygulaması: [turbomaze.github.io/wor
 Bu uygulama, word2vec'in 10.000 kelimelik bir alt kümesini kullanır. 
 Kelimeleri ve [300 uzunluğundaki sayı dizisini]((https://turbomaze.github.io/word2vecjson/data/wordvecs10000.js)) inceleyin. 
 
+## Example with Sentence Transformer
+
+
+```python
+{{< include ./src/embeddings_sentence_transformer.py >}}
+```
 
 
 
