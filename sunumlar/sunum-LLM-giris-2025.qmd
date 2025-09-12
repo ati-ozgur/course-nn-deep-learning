@@ -8,83 +8,83 @@ format:
                 <script src="https://cdn.jsdelivr.net/npm/mermaid@11.2.1/dist/mermaid.min.js"></script>
 ---
 
-{{< include ../common/atilla-ozgur-resume-en.md >}}
+{{< include common/atilla-ozgur-resume-en.md >}}
 
 ::: {style="font-size:14px"}
 
-{{< include ../common/atilla-ozgur-employment-history.md >}}
+{{< include common/atilla-ozgur-employment-history.md >}}
 
 :::
 
 # Broader AI
 
-![](../images/broader-AI.png)
+![](images/broader-AI.png)
 
 # Course contents for LLM
 
-![](../images/course-content-LLM.png)
+![](images/course-content-LLM.png)
 
 
 
 ## Course book
 
-![](../images/book-build-a-large-language-model-from-scratch.png)
+![](images/book-build-a-large-language-model-from-scratch.png)
 
 
-{{< include ../common/how-LLMs-work-en.qmd >}}
+{{< include common/how-LLMs-work-en.qmd >}}
 
 
-{{< include ../common/neural-networks.qmd >}}
-
-
-
-{{< include ../common/modern-architectures-derived-from-gpt.md >}}
-
-
-{{< include ../common/model-size-capabilities-en.md >}}
-
-
-{{< include ../common/pre-train-llm.md >}}
-{{< include ../common/pre-train-llm-datasets.md >}}
-{{< include ../common/pre-train-llm-speed-up.md >}}
-
-
-{{< include ../common/after-pretrain.md >}}
+{{< include common/neural-networks.qmd >}}
 
 
 
-{{< include ../common/how-to-train-your-ChatGPT.md >}}
+{{< include common/modern-architectures-derived-from-gpt.md >}}
+
+
+{{< include common/model-size-capabilities-en.md >}}
+
+
+{{< include common/pre-train-llm.md >}}
+{{< include common/pre-train-llm-datasets.md >}}
+{{< include common/pre-train-llm-speed-up.md >}}
+
+
+{{< include common/after-pretrain.md >}}
+
+
+
+{{< include common/how-to-train-your-ChatGPT.md >}}
 
 
 ## Course contents for LLM
 
-![](../images/course-content-LLM.png)
+![](images/course-content-LLM.png)
 
 
-{{< include ../common/llm-arena.md >}}
+{{< include common/llm-arena.md >}}
 
-{{< include ../common/foundational-base-models.qmd >}}
-
-
-{{< include ../common/retrieval-augmented-generation.qmd >}}
+{{< include common/foundational-base-models.qmd >}}
 
 
-{{< include ../common/open-source.qmd >}}
-
-{{< include ../common/fine-tuning-different-techniques.qmd >}}
-
-{{< include ../common/reinforcement-learning-human-feedback.qmd >}}
+{{< include common/retrieval-augmented-generation.qmd >}}
 
 
-{{< include ../common/no-moat.md >}}
+{{< include common/open-source.qmd >}}
+
+{{< include common/fine-tuning-different-techniques.qmd >}}
+
+{{< include common/reinforcement-learning-human-feedback.qmd >}}
 
 
-{{< include ../common/present.md >}}
-
-{{< include ../common/security.md >}}
-
-{{< include ../common/problems.md >}}
+{{< include common/no-moat.md >}}
 
 
+{{< include common/present.md >}}
 
-{{< include ../common/sources.qmd >}}
+{{< include common/security.md >}}
+
+{{< include common/problems.md >}}
+
+
+
+{{< include common/sources.qmd >}}

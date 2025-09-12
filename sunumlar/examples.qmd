@@ -15,7 +15,7 @@ text here
 {{< include ./dosyaadi.qmd >}}
 
 
-{{< include ../tables/table-tokenization-karpathy.md >}}
+{{< include tables/table-tokenization-karpathy.md >}}
  
 
 Aşağıda bu projenin bitmiş halini görebilirsiniz.

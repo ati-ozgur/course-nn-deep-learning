@@ -19,7 +19,7 @@
 - N — the number of parameters in the network (weights and biases)
 - D — the amount of text we train on
 
-![](../images/LLM-Scaling-Laws.png)
+![](images/LLM-Scaling-Laws.png)
 
 - A lot of LLM companies insinuated that AGI will be reached with LLM scaling
 - With the release GPT 5, we see that this hypothesis does not hold
@@ -27,7 +27,7 @@
 
 ## AGI is not impossible but we are not there yet
 
-![](../images/AGI-is-not-impossible-but-we-are-not-there-yet.png)
+![](images/AGI-is-not-impossible-but-we-are-not-there-yet.png)
 
 ## Road to AGI: More paradigms are needed 
 
@@ -36,7 +36,7 @@
 
 ## Multi modal LLM
 
-![](../images/Multimodal-LLMs.png)
+![](images/Multimodal-LLMs.png)
 
 ## Tool Usage 
 
@@ -55,11 +55,11 @@
 
 ::: {#fig-gemini layout-ncol=3}
 
-![](../images/python-code-usage-chatgpt.png)
+![](images/python-code-usage-chatgpt.png)
 
-![](../images/python-code-usage-gemini-1.png)
+![](images/python-code-usage-gemini-1.png)
 
-![](../images/python-code-usage-gemini-2.png)
+![](images/python-code-usage-gemini-2.png)
 
 ChatGPT/Gemini tool usage
 :::

@@ -2,7 +2,7 @@
 
 ## fine tuning different models
 
-![](../images/fine-tuning-different-models.png)
+![](images/fine-tuning-different-models.png)
 
 - SFT (Supervised Fine Tuning)
 - RLHF (Reinforcement Learning Human Feedback)
@@ -11,12 +11,12 @@
 
 ## GPT Assistant training pipeline
 
-![](../images/GPT-Assistant-training-pipeline.png)
+![](images/GPT-Assistant-training-pipeline.png)
 
 - [Andrej Karpathy: State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 
 ## Fine tuning thoughts
 
-![](../images/fine-tuning-thoughts.png)
+![](images/fine-tuning-thoughts.png)
 
 - [Andrej Karpathy: State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)

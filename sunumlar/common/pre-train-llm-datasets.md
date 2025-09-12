@@ -13,7 +13,7 @@
 
 ## Datasets used to train GPT-3
 
-![](../images/Datasets-used-to-train-GPT-3.png)
+![](images/Datasets-used-to-train-GPT-3.png)
  
 ## Datasets LLama 2
 
@@ -62,7 +62,7 @@ provides a good performance–cost trade-off,
 
 ## Pre training different models
 
-![](../images/pre-training-different-models.png)
+![](images/pre-training-different-models.png)
 
 [source Sebastian Raschka: LLMs: A Journey Through Time and Architecture](https://www.youtube.com/watch?v=itIab9ZTAqk)
 
@@ -71,10 +71,10 @@ provides a good performance–cost trade-off,
 
 ::: {style="font-size:14px"}
 
-{{< include ../tables/table-pre-training-costs.md >}}
+{{< include tables/table-pre-training-costs.md >}}
 
 :::
 
 ## Sam-Altman-1million-GPU
 
-![](../images/Sam-Altman-1million-GPU.png)
+![](images/Sam-Altman-1million-GPU.png)

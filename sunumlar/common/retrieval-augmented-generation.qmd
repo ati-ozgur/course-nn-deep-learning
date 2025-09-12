@@ -3,7 +3,7 @@
 ::: {style="font-size:14px"}
 ## Model Cutoff times
 
-{{< include ../tables/table-cut-off-times.md >}}
+{{< include tables/table-cut-off-times.md >}}
 
 :::
 
@@ -17,7 +17,7 @@
 
 ## RAG Workflow
 
-![](../images/RAG-workflow.png)
+![](images/RAG-workflow.png)
 
 - When a new prompt comes to LLM system, similar documents to this new prompt are searched in databases.
 - Most of the time a vector database is used for fast response times.

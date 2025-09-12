@@ -16,9 +16,9 @@
 
 ::: {style="font-size:20px"}
 
-{{< include ../common/americas-AI-Action-Plan-Open-source.md >}}
+{{< include common/americas-AI-Action-Plan-Open-source.md >}}
 
 :::
 
-{{< include ../common/china-open-source.md >}}
+{{< include common/china-open-source.md >}}
 

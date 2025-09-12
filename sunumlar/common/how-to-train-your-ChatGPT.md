@@ -1,44 +1,44 @@
 # how to train your ChatGPT
 
-![](../images/how-to-train-your-chatgpt.png)
+![](images/how-to-train-your-chatgpt.png)
 
 [Andrej Karpathy 1hr Talk Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
 ## Supervised Fine Tuning (Instruct GPT)
 
-![](../images/Instruct-GPT-Prompt-Example.png)
+![](images/Instruct-GPT-Prompt-Example.png)
 
 
 
 ## training the assistant
 
-![](../images/training-the-assistant.png)
+![](images/training-the-assistant.png)
 
 [Andrej Karpathy 1hr Talk Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
 ## datasets conversation 1
 
-![](../images/datasets-conversation-1.png)
+![](images/datasets-conversation-1.png)
 
 [Andrej Karpathy : Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
 ## datasets conversation 2
 
-![](../images/datasets-conversation-2.png)
+![](images/datasets-conversation-2.png)
 
 
 [Andrej Karpathy : Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
 ## datasets conversation 3
 
-![](../images/datasets-conversation-3.png)
+![](images/datasets-conversation-3.png)
 
 
 - [Andrej Karpathy: State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 
 ## LLama3 SFT datasets
 
-![](../images/LLama3-SFT-datasets.png)
+![](images/LLama3-SFT-datasets.png)
 
 ## Deepseek may have used OpenAI ChatGPT output
 
@@ -50,11 +50,11 @@
 
 ## SFT after fine tuning you have assistant
 
-![](../images/SFT-after-fine-tuning-you-have-assistant.png)
+![](images/SFT-after-fine-tuning-you-have-assistant.png)
 
 [Andrej Karpathy : Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
 ## After fine tuning Emergent behavior
 
-![](../images/Emergent-Abilities-of-Large-Language-Models.png)
+![](images/Emergent-Abilities-of-Large-Language-Models.png)
 
