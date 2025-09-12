@@ -1,5 +1,11 @@
 # Yerleştirmeler (embeddings)
 
+
+
+![GPT mimarisinde yerleştirme](./images/embeddings-in-GPT-architecture.png)
+
+
+
 Problem, sayılaştırma (tokenization) sonucunda yazımızı sayılara dönüştürüyoruz ama bu sayılar arasında bir ilişkimiz yok.
 Örneğin GPT2 transformer dog (köpek) kelimesini 9703, cat kelimesini 9246 ile sayılaştırmaktadır.
 Aşağıdaki tabloda örnek olarak bazı GPT2 sayılaştırmaları verilmiştir.
