@@ -37,19 +37,11 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render Quarto Profile sunum llm
-        uses: quarto-dev/quarto-actions/render@v2
-        env:
-          QUARTO_PROFILE: sunum-llm
-        with:
-          to: html 
 
-      - name: Render Quarto Profile notes
-        uses: quarto-dev/quarto-actions/render@v2
-        env:
-          QUARTO_PROFILE: notes
-        with:
-          to: html 
+      - name: Render Quarto using Bash
+        run: |
+          source quarto-render.bash
+        shell: bash
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
