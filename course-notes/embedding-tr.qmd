@@ -1,10 +1,17 @@
 # Yerleştirmeler (embeddings)
 
-
+## GPT mimarisinde yerleştirme
 
 ![GPT mimarisinde yerleştirme](./images/embeddings-in-GPT-architecture.png)
 
 
+
+
+
+
+
+
+## Giriş
 
 Problem, sayılaştırma (tokenization) sonucunda yazımızı sayılara dönüştürüyoruz ama bu sayılar arasında bir ilişkimiz yok.
 Örneğin GPT2 transformer dog (köpek) kelimesini 9703, cat kelimesini 9246 ile sayılaştırmaktadır.
@@ -12,13 +19,34 @@ Aşağıdaki tabloda örnek olarak bazı GPT2 sayılaştırmaları verilmiştir.
 
 {{< include ./tables/table-example-gpt2-tokenization-tr.md >}}
 
+
+** Örnek: Mühendislik dönüşümleri **
+
+Yerleştirmelerin mantığı mühendislikte kullanılan dönüştürmelere benzer.
+
+{{< include ./figures/laplace-fourier-z-transforms.mermaid >}}
+
+Biz 9703 (dog) ve 9246 (cat) ile matematiksel işlem tanımlamakta zorlanırız.
+Bu sayılar ile oldukları gibi işlem yapmak yerine bu sayılar daha büyük bir yerleştirme uzayına dönüştürüp işlemleri orada yapıp, arkasından tekrar sözlük sayılaştırmalarına (tokenization) döndürmek daha kolay olacaktır.
+
+** Örnek: 5 özellik **
+
 Biz kedi ve köpek'ler hakkında birçok bilgiye sahibiyiz.
 Örneğin ikisininde 4 ayağı olduğunu, ev hayvanı olduğunu biliyoruz.
 Yerleştirmelerin amacı aşağıdakine benzeyen bir şekilde bu kelimelerin sayılarına daha büyük bir uzaya dönüştürmektir.
+
+{{< include ./tables/table-embedding-example-tr.md >}}
+
+
+Buradaki özellik boyutu 5 örnek olarak verilmiştir.
+Yapay sinir ağları bu özellikleri kendisi öğrenir.
+Normalde bu sayılar çok daha büyüktür.
+Örneğin önceden eğitilmiş kelime yerleştirme Gensim glove-wiki-gigaword-100 modeli 100 boyutludur.
+
 Öğrenilen bu uzayda birbirine yakın kelimelerin (kedi, köpek) daha yakın olması amaçlanmaktadır.
 
-Önceden eğitilmiş kelime yerleştirme Gensim glove-wiki-gigaword-100 modeli örneğin 100 boyutludur.
-Bu model wikipedia verisinde eğitilmiştir.
+
+Gensim glove-wiki-gigaword-100 modeli wikipedia verisinde eğitilmiştir.
 Bu modelin yerleştirmelerini PCA kullanarak 2 boyuta indirgeyerek görselleştirebiliriz.
 Aşağıda bu işlemin örnek bir sonucunu görebilirsiniz.
 
@@ -27,19 +55,7 @@ Aşağıda bu işlemin örnek bir sonucunu görebilirsiniz.
 Yukarıdaki resimde cat ve dog kelimelerinin birbirine yakın olduğunu ve aynı zamanda alaklı kelimelerinde indirgendikleri 2 boyutta bile yakın olduklarına dikkat ediniz.
 
 
-
-
-
-
-{{< include ./tables/table-embedding-example-tr.md >}}
-
-
-Buradaki özellikler örnek olarak verilmiştir.
-Yapay sinir ağları bu özellikleri kendisi öğrenir.
-
-Buradaki özellik boyutu 5 örnek olarak verilmiştir.
-Normalde bu sayılar çok daha büyüktür.
-Aşağıda önceden eğitilmiş, all-MiniLM-L6-v2, yerleştirme modeli 384 boyutludur.
+## Yerleştirme Boyutu ve LLM parametre sayısı
 
 LLM modellerinin parametre sayısını belirleyen kıstaslardan biride yerleştirme boyutlarıdır.
 Aşağıda bilinen bazı LLM modellerinin yerleştirme boyutları verilmiştir.
@@ -49,11 +65,7 @@ Aşağıda bilinen bazı LLM modellerinin yerleştirme boyutları verilmiştir.
 
 
 
-## Mühendislikte dönüşümler
 
-
-
-{{< include ./figures/laplace-fourier-z-transforms.mermaid >}}
 
 ## Yerleştirme Oyun alanı
 
@@ -76,10 +88,17 @@ Kelimeleri ve [300 uzunluğundaki sayı dizisini]((https://turbomaze.github.io/w
 
 
 
-## Önceden Eğitilmiş Örnek Kelime Vektörleri: Gensim
+## Önceden Eğitilmiş Örnek 1 Kelime Vektörleri: Gensim
 
 
 - notebooks/Gensim_word_vector_visualization
+
+## Önceden Eğitilmiş Örnek 2: Sentence Transformer
+
+
+```python
+{{< include ./src/embeddings_sentence_transformer.py >}}
+```
 
 
 ## Kelime Vektörleri Eğitim Örneği
@@ -88,12 +107,8 @@ Kelimeleri ve [300 uzunluğundaki sayı dizisini]((https://turbomaze.github.io/w
 {{< include ./src/word2vec_cbow_pytorch.py >}}
 ```
 
-## Önceden eğitilmiş örnek 2: Sentence Transformer
+## Kitap Kodu
 
-
-```python
-{{< include ./src/embeddings_sentence_transformer.py >}}
-```
 
 
 ## Tavsiye Vidyolar
