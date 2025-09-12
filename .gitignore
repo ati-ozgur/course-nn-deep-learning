@@ -1,4 +1,5 @@
 **/*.~lock.*#
+site_libs/*
 *.aux
 *.html
 *.pdf
