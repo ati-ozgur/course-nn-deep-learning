@@ -25,7 +25,7 @@ L--> F --> Z -->L
 
 https://andkret.github.io/embedding-playground/
 
-{{< include ./tables/embedding-example-tr.md >}}
+{{< include ./tables/table-embedding-example-tr.md >}}
 
 
 - word2vec
