@@ -5,9 +5,8 @@ Notlar Sıfırdan Büyük Dil Modellerinin (LLM from scratch) dersi için hazır
 
 ## Notlar
 
-- [2025 Eylül Sunum](../sunum-llm/sunumlar/sunum-LLM-giris-2025/sunum-LLM-giris-2025.html)
+- [2025 Eylül Sunum](sunum-LLM-giris-2025.html)
 
-- [Ders Notları](../notes/index.html)
 
 
 ## Bağlantılar
