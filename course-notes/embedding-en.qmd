@@ -1,0 +1,33 @@
+# Embedding
+
+
+1. Engineering transform
+
+Complex numbers
+
+The Laplace, Fourier and Z-Transforms
+(Analogue)   (Frequence Domain) (Discrete)
+
+
+Differential equation to algebraic equation
+
+flowchart 
+L--> F --> Z -->L 
+
+https://andkret.github.io/embedding-playground/
+
+{{< include ./tables/embedding-example-tr.md >}}
+
+[turbomaze.github.io/word2vecjson](https://turbomaze.github.io/word2vecjson/) interactive web app for word embedding.
+This app uses an
+[10000 word subset from word2vec](https://turbomaze.github.io/word2vecjson/data/wordvecs10000.js), see words and their 300 long array of numbers.
+See full [source code](https://github.com/turbomaze/word2vecjson) here.
+Word algebra in web application
+
+"king" - "man" + "woman" = queen
+
+
+## Good Videos
+
+- [What Are Word Embeddings?](https://www.youtube.com/watch?v=hVM8qGRTaOA)
+- [https://www.youtube.com/watch?v=ArnMdc-ICCM](Embeddings: What they are and why they matter (Simon Willison))
