@@ -18,6 +18,7 @@
 
 - [source Sebastian Raschka: LLMs: A Journey Through Time and Architecture](https://www.youtube.com/watch?v=itIab9ZTAqk)
 
+- [source Sebastian Raschka: The Big LLM Architecture Comparison](https://www.youtube.com/watch?v=rNlULI-zGcw)
 
 ### Alexander Rush
 
