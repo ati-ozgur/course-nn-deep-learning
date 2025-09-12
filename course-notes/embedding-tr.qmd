@@ -1,8 +1,22 @@
 # Yerleştirme (embedding)
 
 
+1. Engineering transform
+
+Complex numbers
+
+The Laplace, Fourier and Z-Transforms
+(Analogue)   (Frequence Domain) (Discrete)
+
+
+Differential equation to algebraic equation
+
+flowchart 
+L--> F --> Z -->L 
 
 https://andkret.github.io/embedding-playground/
+
+{{< include ./tables/embedding-example-tr.md >}}
 
 
 ## Good Videos
