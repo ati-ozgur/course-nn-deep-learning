@@ -17,6 +17,19 @@ Biz kedi ve köpek'ler hakkında birçok bilgiye sahibiyiz.
 Yerleştirmelerin amacı aşağıdakine benzeyen bir şekilde bu kelimelerin sayılarına daha büyük bir uzaya dönüştürmektir.
 Öğrenilen bu uzayda birbirine yakın kelimelerin (kedi, köpek) daha yakın olması amaçlanmaktadır.
 
+Önceden eğitilmiş kelime yerleştirme Gensim glove-wiki-gigaword-100 modeli örneğin 100 boyutludur.
+Bu model wikipedia verisinde eğitilmiştir.
+Bu modelin yerleştirmelerini PCA kullanarak 2 boyuta indirgeyerek görselleştirebiliriz.
+Aşağıda bu işlemin örnek bir sonucunu görebilirsiniz.
+
+![Gensim embeddings PCA](./images/gensim-embeddings-pca.png)
+
+Yukarıdaki resimde cat ve dog kelimelerinin birbirine yakın olduğunu ve aynı zamanda alaklı kelimelerinde indirgendikleri 2 boyutta bile yakın olduklarına dikkat ediniz.
+
+
+
+
+
 
 {{< include ./tables/table-embedding-example-tr.md >}}
 
