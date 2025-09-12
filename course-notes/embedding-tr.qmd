@@ -1,7 +1,20 @@
 # Yerleştirme (embedding)
 
+Problem, sayılaştırma (tokenization) sonucunda yazımızı sayılara dönüştürüyoruz ama bu sayılar arasında ilişkimiz yok.
+Örneğin GPT2 transformer dog (köpek) kelimesini 9703, cat kelimesini 9246 ile sayılaştırmaktadır.
+Ama bu 
 
-1. Engineering transform
+
+| Word (kelime) | GPT2 sayılaştırma |
+|---------------|-------------------|
+| dog   (köpek)        | 9703              |
+| cat  (kedi)         | 9246              |
+| kitten (kedi yavrusu)           | 74, 2621          |
+| apple  (elma)       | 18040             |
+| banana (muz)       | 3820, 2271        |
+
+
+## Mühendislikte dönüşümler
 
 Complex numbers
 
@@ -19,6 +32,25 @@ https://andkret.github.io/embedding-playground/
 {{< include ./tables/embedding-example-tr.md >}}
 
 
-## Good Videos
+- word2vec
+- gensim
+
+
+
+
+kelime yerleştirme için etkileşimli web uygulaması: [turbomaze.github.io/word2vecjson](https://turbomaze.github.io/word2vecjson/), [Kaynak kodu](https://github.com/turbomaze/word2vecjson).
+
+
+Bu uygulama, word2vec'in 10.000 kelimelik bir alt kümesini kullanır. 
+Kelimeleri ve [300 uzunluğundaki sayı dizisini]((https://turbomaze.github.io/word2vecjson/data/wordvecs10000.js)) inceleyin. 
+
+
+
+
+## Tavsiye Vidyolar
+
+Başlıklar tercume edilmemiştir.
+
 
 - [What Are Word Embeddings?](https://www.youtube.com/watch?v=hVM8qGRTaOA)
+- [https://www.youtube.com/watch?v=ArnMdc-ICCM](Embeddings: What they are and why they matter (Simon Willison))
