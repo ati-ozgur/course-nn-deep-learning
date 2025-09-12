@@ -103,6 +103,14 @@ Kelimeleri ve [300 uzunluğundaki sayı dizisini]((https://turbomaze.github.io/w
 
 ## Kelime Vektörleri Eğitim Örneği
 
+
+![](./images/word2vec-cbow-skip-gram.png)
+
+[Kaynak word2vec makalesi](https://arxiv.org/pdf/1301.3781)
+
+
+
+
 ```python
 {{< include ./src/word2vec_cbow_pytorch.py >}}
 ```
