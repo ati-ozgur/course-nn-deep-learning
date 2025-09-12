@@ -1,36 +1,30 @@
-# Yerleştirme (embedding)
+# Yerleştirmeler (embeddings)
 
-Problem, sayılaştırma (tokenization) sonucunda yazımızı sayılara dönüştürüyoruz ama bu sayılar arasında ilişkimiz yok.
+Problem, sayılaştırma (tokenization) sonucunda yazımızı sayılara dönüştürüyoruz ama bu sayılar arasında bir ilişkimiz yok.
 Örneğin GPT2 transformer dog (köpek) kelimesini 9703, cat kelimesini 9246 ile sayılaştırmaktadır.
-Ama bu 
+Aşağıdaki tabloda örnek olarak bazı GPT2 sayılaştırmaları verilmiştir.
 
 {{< include ./tables/table-example-gpt2-tokenization-tr.md >}}
 
+Biz kedi ve köpek'ler hakkında birçok bilgiye sahibiyiz.
+Örneğin ikisininde 4 ayağı olduğunu, ev hayvanı olduğunu biliyoruz.
+Yerleştirmelerin amacı aşağıdakine benzeyen bir şekilde bu kelimelerin sayılarına daha büyük bir uzaya dönüştürmektir.
+Öğrenilen bu uzayda birbirine yakın kelimelerin (kedi, köpek) daha yakın olması amaçlanmaktadır.
 
+
+{{< include ./tables/table-embedding-example-tr.md >}}
 
 
 
 ## Mühendislikte dönüşümler
 
-Complex numbers
-
-The Laplace, Fourier and Z-Transforms
-(Analogue)   (Frequence Domain) (Discrete)
 
 
-Differential equation to algebraic equation
+{{< include ./figures/laplace-fourier-z-transforms.mermaid >}}
 
-flowchart 
-L--> F --> Z -->L 
+## Yerleştirme Oyun alanı
 
 https://andkret.github.io/embedding-playground/
-
-{{< include ./tables/table-embedding-example-tr.md >}}
-
-
-- word2vec
-- gensim
-
 
 
 
@@ -40,13 +34,36 @@ kelime yerleştirme için etkileşimli web uygulaması: [turbomaze.github.io/wor
 Bu uygulama, word2vec'in 10.000 kelimelik bir alt kümesini kullanır. 
 Kelimeleri ve [300 uzunluğundaki sayı dizisini]((https://turbomaze.github.io/word2vecjson/data/wordvecs10000.js)) inceleyin. 
 
-## Example with Sentence Transformer
+
+## Kelime Yerleştirmeleri
+
+- word2vec
+- gensim
+
+
+
+
+## Önceden Eğitilmiş Örnek Kelime Vektörleri: Gensim
+
+
+- notebooks/Gensim_word_vector_visualization
+
+
+## Kelime Vektörleri Eğitim Örneği
+
+```python
+{{< include ./src/word2vec_cbow_pytorch.py >}}
+```
+
+## Önceden eğitilmiş örnek 2: Sentence Transformer
 
 
 ```python
 {{< include ./src/embeddings_sentence_transformer.py >}}
 ```
 
+
+## 
 
 
 ## Tavsiye Vidyolar
