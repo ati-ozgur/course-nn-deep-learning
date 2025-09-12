@@ -65,7 +65,7 @@ Kelimeleri ve [300 uzunluğundaki sayı dizisini]((https://turbomaze.github.io/w
 
 ## Tavsiye Vidyolar
 
-Başlıklar tercume edilmemiştir.
+Başlıklar çevrilmemiştir.
 
 
 - [What Are Word Embeddings?](https://www.youtube.com/watch?v=hVM8qGRTaOA)
