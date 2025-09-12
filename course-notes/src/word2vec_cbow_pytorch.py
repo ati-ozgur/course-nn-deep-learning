@@ -46,6 +46,9 @@ for sentence in tokenized_corpus:
         pairs.append((context, word2idx[center_word]))
 
 print(f"Total training pairs: {len(pairs)}")
+#print(pairs)
+#pair_words = [([idx2word[id] for id in t[0]],idx2word[t[-1]]) for t in pairs]
+#print(pair_words)
 
 # ----------------------------
 # 2. CBOW Model
