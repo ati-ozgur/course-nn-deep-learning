@@ -63,9 +63,6 @@ Kelimeleri ve [300 uzunluğundaki sayı dizisini]((https://turbomaze.github.io/w
 ```
 
 
-## 
-
-
 ## Tavsiye Vidyolar
 
 Başlıklar tercume edilmemiştir.
